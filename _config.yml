@@ -1,16 +1,16 @@
-name: "Doohicky"
-description: "a site about nothing"
+name: "kantele"
+description: "kantele site"
 signature: "Yours truly, Grizzly Bear"
 pygments: true
 permalink: pretty
 markdown: redcarpet
 github:
   # enables "edit" link
-  repo: 'GRIZZLYBEAR/GRIZZLYBEAR.github.io'
+  repo: 'kantele/kantele.github.io'
   branch: master
 prose:
-  siteurl: 'http://GRIZZLYBEAR.github.io'
-  relativeLinks: 'http://GRIZZLYBEAR.github.io/links.jsonp'
+  siteurl: 'http://kantele.github.io'
+  relativeLinks: 'http://kantele.github.io/links.jsonp'
   # uncomment to limit editing to the _posts directory
   #rooturl: '_posts'
   media: 'media'
