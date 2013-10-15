@@ -8,4 +8,4 @@ published: true
 
 ![Sheeps!](/media/starter-baby-sheep.jpg)
 
-More!!!!!
+More...
