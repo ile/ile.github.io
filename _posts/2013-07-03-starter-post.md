@@ -4,7 +4,7 @@ title: Default post
 published: true
 ---
 
-## [Markdown](http://daringfireball.net/projects/markdown/)!
+## Lammas
 
 ![Sheeps!](/media/starter-baby-sheep.jpg)
 
