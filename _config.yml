@@ -2,6 +2,7 @@ name: "kantele"
 description: "kantele site"
 signature: "Yours truly, Grizzly Bear"
 pygments: true
+permalink: pretty
 markdown: redcarpet
 github:
   # enables "edit" link
