@@ -250,11 +250,12 @@ pre code {
 }
 
 .home ul li {
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .home ul p {
   color:#999;
+  margin: 0;
 }
 
 ul {
