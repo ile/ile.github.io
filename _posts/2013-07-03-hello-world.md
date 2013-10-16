@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world!
+title: "Hello world!"
 published: true
 ---
 
@@ -16,4 +16,4 @@ I will be informing here on new software that I have been making. Stay tuned...
 
 ## Update on 2013-10-16
 
-Moved to [Jekyll](https://help.github.com/articles/using-jekyll-with-pages). Had a problem with Kerouac, and didn't want to fix that myself, so went the easier way with Jekyll. Also I don't need an external build tool (like wercker) with Jekyll since building done by GitHub. I lose some flexibility though.
+Moved to [Jekyll](https://help.github.com/articles/using-jekyll-with-pages). Had a problem with Kerouac, and didn't want to fix that myself, so went the easier way with Jekyll. Also I don't need an external build tool (like wercker) with Jekyll since building done by GitHub. I lose some flexibility though. Also, [prose.io](http://prose.io/) is used as an editor.
