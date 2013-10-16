@@ -1,29 +1,61 @@
 ---
 layout: default
-title: Doohicky
-description: a site about nothing
+title: Home
+description: Ilkka Huotari
 ---
 
-<div id="home" class="row">
-  <div class="col-sm-9">
-    <div class="list-group posts">
-    {% for post in site.posts %}
-      <a href="{{ post.url }}" class="list-group-item">
-        <h4 class="list-group-item-heading">{{ post.title }}<small class="pull-right">{{ post.date | date_to_string }}</small></h4>
-      {% if post.description %}
-        <p class="list-group-item-text">{{ post.description }}</p>
-      {% endif %}
-      </a>
-    {% endfor %}
+<section class="home">
+    <h2>Projects</h2>
+    <ul>
+      <li>
+        <h3><a target="_blank" href="http://windowsphone.com/s?appid=ddc56c21-dcf4-425c-bc12-6fe0ee7e09b3" target="_blank">tinyirc</a></h3>
+        <p>An IRC client for Windows Phone.</p>
+      </li>
+      <li>
+        <h3><a target="_blank" href="https://chrome.google.com/webstore/detail/iniabgbbmccaomaocmhcfioahgipigbh" target="_blank">Start!</a></h3>
+        <p>An alternative start page for Google Chrome.</p>
+      </li>
+      <li>
+        <h3><a target="_blank" href="https://chrome.google.com/webstore/detail/fdplnbbmoikjmjckeclbeaheoehbpbfi" target="_blank">Take Notes</a></h3>
+        <p>A no-hassle note taking extension for Google Chrome.</p>
+      </li>
+      <li>
+        <h3><a target="_blank" href="http://ile.github.io/population-calculator/" target="_blank">Population calculator</a></h3>
+        <p>An experiment with D3.</p>
+      </li>
+      <li>
+        <h3><a target="_blank" href="http://ile.github.io/tilastot/" target="_blank">Statistics visualization of Finland</a></h3>
+        <p>Another experiment with D3.</p>
+      </li>
+        <h3><a target="_blank" href="https://github.com/ile/">GitHub repos</a></h3>
+        <p>A lot of code.</p>
+      <li>
+      </li>
+    </ul>
+    <h2>Blog</h2>
+    <ul class="posts">
+      {% for post in site.posts %}
+      <li>
+        <span class="date">{{ post.date | date_to_string }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+          {% if post.description %}
+            <p class="list-group-item-text">{{ post.description }}</p>
+          {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div id="home" class="row">
+      <div class="col-sm-3">
+        <div class="list-group posts">
+        {% for post in site.pages %}{% if post.url != page.url and post.title != null %}
+          <a href="{{ post.url }}" title="{{ post.description }}" class="list-group-item">
+            {{ post.title }}
+          </a>
+        {% endif %}{% endfor %}
+        </div>
+      </div>
     </div>
-  </div>
-  <div class="col-sm-3">
-    <div class="list-group posts">
-    {% for post in site.pages %}{% if post.url != page.url and post.title != null %}
-      <a href="{{ post.url }}" title="{{ post.description }}" class="list-group-item">
-        {{ post.title }}
-      </a>
-    {% endif %}{% endfor %}
-    </div>
-  </div>
-</div>
+</section>
+
+

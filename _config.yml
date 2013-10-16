@@ -13,7 +13,7 @@ prose:
   relativeLinks: 'http://kantele.github.io/links.jsonp'
   # uncomment to limit editing to the _posts directory
   #rooturl: '_posts'
-  media: 'media'
+  media: 'assets/media'
   metadata:
     _posts:
       - name: "layout"

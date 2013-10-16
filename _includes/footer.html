@@ -1,0 +1,12 @@
+<footer>
+  <div class="inner">
+    <p>&copy; <a href="/contact/">Ilkka Huotari 2013</a>
+    	{% if page.path and site.github.repo and site.github.branch %}
+    	    &mdash;  <a class="" href="http://prose.io/#{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">edit this page</a>
+    	{% endif %}
+    </p>
+    <p><a href="/feed.rss">rss</a></p>
+    <p><a target="_blank" href="https://github.com/ile/"><span class="github-logo logo"></span></a> <a href="/contact"><span class="gmail-logo logo"></span></a></p>
+  </div>
+</footer>
+
