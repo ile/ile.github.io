@@ -1,16 +1,16 @@
-name: "kantele"
-description: "kantele site"
+name: "ilkkah"
+description: "ilkkah site"
 signature: "Yours truly, Grizzly Bear"
 pygments: true
 permalink: pretty
 markdown: redcarpet
 github:
   # enables "edit" link
-  repo: 'kantele/kantele.github.io'
+  repo: 'ilkkah/ilkkah.github.io'
   branch: master
 prose:
-  siteurl: 'http://kantele.github.io'
-  relativeLinks: 'http://kantele.github.io/links.jsonp'
+  siteurl: 'http://ilkkah.com'
+  relativeLinks: 'http://ilkkah.com/links.jsonp'
   # uncomment to limit editing to the _posts directory
   #rooturl: '_posts'
   media: 'assets/media'
