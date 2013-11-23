@@ -15,7 +15,7 @@ h2, h3, h4, h5, h6, p, blockquote {
 
 body {
   font-family: Lora, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 19px;
   line-height: 27px;
   color: #252824;
   background: #fbfbfb;
@@ -59,7 +59,7 @@ a {
 }
 
 article a:hover, section a:hover {
-  border-bottom: solid 1px #D8C6C6;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -88,7 +88,7 @@ p {
 }
 
 #container {
-  min-width: 300px;
+  min-width: 500px;
 }
 
 footer *,
@@ -362,7 +362,7 @@ section.gray {
 }
 
 article, section {
-  width: 400px;
+  width: 500px;
   margin: 0 auto;
   padding: 0 0 250px 0;
 }
