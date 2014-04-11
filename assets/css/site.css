@@ -14,9 +14,10 @@ h2, h3, h4, h5, h6, p, blockquote {
 }
 
 body {
-  font-family: Lora, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 19px;
-  line-height: 27px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 25px;
   color: #252824;
   background: #fbfbfb;
 }
@@ -50,12 +51,53 @@ h6 {
   font-size: 13px;
 }
 
+a p {
+  font-weight: 300;
+}
+
 a {
   color: #225a93;
   color: #2766A5;
   color: #A52727;
   font-weight: bold;
   text-decoration: none;
+}
+
+.pane-projects a span, .pane-projects a img {
+  float: left;
+  margin: 0 5px 5px 0;
+  width: 32px;
+}
+
+.pane-projects a {
+  display: block;
+  height: 100%;
+  transition: all 0.5s;
+  border-left: solid 5px transparent;
+  position: relative;
+}
+
+.pane-projects a:hover {
+  text-decoration: none;
+}
+
+.pane-projects a:after {
+  content: '';
+  position: absolute;
+  display: block;
+  height: 100%;
+  width: 0;
+  left: -12px;  
+  top: 0;
+  bottom: 0;
+  background: transparent;
+ -webkit-transition: all ease 0.4s;
+  -moz-transition: all ease 0.4s;
+  transition: all ease 0.4s;    
+}
+.pane-projects a:hover:after {
+  width: 5px;
+  background: #ddd;
 }
 
 article a:hover, section a:hover {
@@ -97,6 +139,11 @@ header * {
   padding: 0;
 }
 
+footer a {
+  font-weight: 300;
+  color: #555;
+}
+
 footer {
   height: 160px;
   position: absolute;
@@ -112,19 +159,14 @@ footer .inner {
   border-top: 1px solid #fff;
   padding: 10px 0;
   text-indent: 5px;
-  color: #aaa;
+  color: #555;
   text-shadow: 1px 1px 1px #fff;
-  font-style: italic;
   text-align: center;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 footer .sm  {
   font-size: 80%
-}
-
-footer .inner a {
-  color: #b6b6b6;
 }
 
 header h1 {
@@ -254,37 +296,34 @@ pre code {
 }
 
 .home ul p {
-  color:#999;
+  color: #000;
   margin: 0;
+  font-size: 13px;
 }
+
+.pane-projects li {
+  width: 150px;
+  height: 120px;
+  padding-left: 8px;
+  overflow: hidden;
+  display: inline-block;
+  line-height: 22px;
+}
+
+.icons li {
+  display: inline-block;
+  margin-left: 4px;
+}
+
+.icons ul {
+  list-style-type: none;
+}
+
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-}
-
-ul.projects li p {
-  display: none;
-  position: absolute;
-}
-
-ul.projects li:hover p {
-  display: none;
-}
-
-ul.projects li {
-  width: 200px;
-  height: 200px;
-  float: left;
-  position: relative;
-}
-
-ul.projects img {
-  max-width: 200px;
-  max-height: 200px;
-  width: auto;
-  border: none;
 }
 
 .logo:hover {
@@ -510,7 +549,7 @@ section#cover a {
     text-align: center;
   }
 
-  article img, section img {
+  article img {
     width: 98%;
     margin: 30px auto;
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
