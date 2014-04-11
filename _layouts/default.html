@@ -20,6 +20,8 @@
       <link href="/feed.rss" rel="alternate" type="application/rss+xml" title="Ilkka Huotari's rss" />
       <link rel="stylesheet" href="/assets/css/site.css">
       <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+      <link rel="stylesheet" href="/assets/bower_components/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+      <script type="text/javascript" src="/assets/bower_components/fancybox/source/jquery.fancybox.pack.js"></script>
   </head>
   <body>
     <div class="container">
@@ -43,6 +45,14 @@
               return this.hostname && this.hostname !== location.hostname && this.hostname !== 'prose.io';
           }).attr('target', '_blank');  
       });
+
+      $(document).ready(function() {
+        $("article.blog a[href$='.jpg'],article.blog a[href$='.jpeg'],article.blog a[href$='.png'],article.blog a[href$='.gif']").attr('rel', 'gallery').fancybox({
+            padding : 0,
+            openEffect  : 'elastic'
+        });
+      });
+
     </script>
   </body>
 </html>
