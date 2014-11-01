@@ -484,6 +484,14 @@ section#cover a {
   -webkit-transform: translateZ(50px);
 }
 
+#nav .inner h1 {
+-webkit-animation:0.3s enter;
+   -moz-animation:0.3s enter;
+    -ms-animation:0.3s enter;
+     -o-animation:0.3s enter;
+        animation:0.3s enter;
+}
+
 @media screen and (min-width: 776px) {
   span.xdate {
     position: relative;
@@ -579,6 +587,7 @@ section#cover a {
 
   }
 
+
   header a {
     vertical-align: middle;
     color: #333;
@@ -612,15 +621,4 @@ section#cover a {
   0% { opacity: 0; -o-transform: translateY(-50px); }
   100% { opacity: 1; -o-transform: translateY(0px); }
 }
-
-#nav .inner h1{
-/*animation*/
--webkit-animation:0.3s enter;
-   -moz-animation:0.3s enter;
-    -ms-animation:0.3s enter;
-     -o-animation:0.3s enter;
-        animation:0.3s enter;
-}
-
-
 
