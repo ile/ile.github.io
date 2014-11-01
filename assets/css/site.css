@@ -13,6 +13,14 @@ h2, h3, h4, h5, h6, p, blockquote {
   padding: 0;
 }
 
+#nav .inner h1 {
+-webkit-animation:0.3s enter;
+   -moz-animation:0.3s enter;
+    -ms-animation:0.3s enter;
+     -o-animation:0.3s enter;
+        animation:0.3s enter;
+}
+
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
@@ -482,14 +490,6 @@ section#cover a {
 
   -moz-transform: translateZ(50px);
   -webkit-transform: translateZ(50px);
-}
-
-#nav .inner h1 {
--webkit-animation:0.3s enter;
-   -moz-animation:0.3s enter;
-    -ms-animation:0.3s enter;
-     -o-animation:0.3s enter;
-        animation:0.3s enter;
 }
 
 @media screen and (min-width: 776px) {
