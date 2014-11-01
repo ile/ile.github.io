@@ -21,6 +21,14 @@ body.home #nav .inner h1 {
         animation:1s enter;
 }
 
+body.home section.home {
+-webkit-animation:1s 0.4s enter;
+   -moz-animation:1s 0.4s enter;
+    -ms-animation:1s 0.4s enter;
+     -o-animation:1s 0.4s enter;
+        animation:1s 0.4s enter;
+}
+
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
