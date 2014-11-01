@@ -13,7 +13,7 @@ h2, h3, h4, h5, h6, p, blockquote {
   padding: 0;
 }
 
-#nav .inner h1 {
+body.home #nav .inner h1 {
 -webkit-animation:1s enter;
    -moz-animation:1s enter;
     -ms-animation:1s enter;
