@@ -612,3 +612,15 @@ section#cover a {
   0% { opacity: 0; -o-transform: translateY(-50px); }
   100% { opacity: 1; -o-transform: translateY(0px); }
 }
+
+#nav .inner h1{
+/*animation*/
+-webkit-animation:0.3s enter;
+   -moz-animation:0.3s enter;
+    -ms-animation:0.3s enter;
+     -o-animation:0.3s enter;
+        animation:0.3s enter;
+}
+
+
+
