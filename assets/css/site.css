@@ -43,11 +43,11 @@ body.home #nav .inner h1 {
 }
 
 body.home section.home, body.home section.home * {
--webkit-animation:1s 0.2s enter;
-   -moz-animation:1s 0.2s enter;
-    -ms-animation:1s 0.2s enter;
-     -o-animation:1s 0.2s enter;
-        animation:1s 0.2s enter;
+-webkit-animation:1s enter;
+   -moz-animation:1s enter;
+    -ms-animation:1s enter;
+     -o-animation:1s enter;
+        animation:1s enter;
 }
 
 body {
