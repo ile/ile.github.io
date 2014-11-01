@@ -21,7 +21,7 @@ body.home #nav .inner h1 {
         animation:1s enter;
 }
 
-body.home div.content {
+body.home section.home, body.home section.home * {
 -webkit-animation:1s 0.4s enter;
    -moz-animation:1s 0.4s enter;
     -ms-animation:1s 0.4s enter;
