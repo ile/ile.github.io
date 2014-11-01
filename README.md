@@ -1,1 +1,1 @@
-http://kantele.github.io/
+http://ilkkah.com
