@@ -35,19 +35,19 @@ h2, h3, h4, h5, h6, p, blockquote {
 }
 
 body.home #nav .inner h1 {
--webkit-animation:1s enter;
-   -moz-animation:1s enter;
-    -ms-animation:1s enter;
-     -o-animation:1s enter;
-        animation:1s enter;
+-webkit-animation:1.5s enter;
+   -moz-animation:1.5s enter;
+    -ms-animation:1.5s enter;
+     -o-animation:1.5s enter;
+        animation:1.5s enter;
 }
 
 body.home section.home, body.home section.home * {
--webkit-animation:1s enter;
-   -moz-animation:1s enter;
-    -ms-animation:1s enter;
-     -o-animation:1s enter;
-        animation:1s enter;
+-webkit-animation:1.5s enter;
+   -moz-animation:1.5s enter;
+    -ms-animation:1.5s enter;
+     -o-animation:1.5s enter;
+        animation:1.5s enter;
 }
 
 body {
@@ -462,25 +462,6 @@ section#cover {
   background: url('http://i.imgur.com/hmUwHMV.jpg');
   background-size: cover;
 }
-
-section#cover .wrap {
-  text-align: center;
-  width:600px;
-  height:500px;
-  font-size: 36px;
-  line-height: 42px;
-  font-weight: bold;
-
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin: -250px 0 0 -300px;
-  animation: 1.5s enter;
-  -webkit-animation: 1.5s enter;
-  -moz-animation: 1.5s enter;
-  -o-animation: 1.5s enter;
-}
-
 
 section#cover h1 {
   margin: 0 0 20px 0;
