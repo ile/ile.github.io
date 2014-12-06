@@ -593,7 +593,7 @@ section#cover a {
   article img {
     width: 98%;
     margin: 30px auto;
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
   }
 
   header h1 {
