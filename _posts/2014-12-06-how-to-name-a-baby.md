@@ -10,6 +10,6 @@ If you have a tablet/phone, try swiping through the pages, e.g. [http://nimikirj
 
 The site is made with [DerbyJS](http://derbyjs.com) (actually with my unpublished fork of DerbyJS), and it is my first production site made with Derby. Hopefully the first of the many.
 
-One caveat though: your baby's name will be in Finnish. I hope that's not a problem. 
+One caveat though: your baby's name will be in Finnish. I hope that's not a problem! 
 
 ![image](https://cloud.githubusercontent.com/assets/433707/5326259/67966ba8-7d17-11e4-9ca1-e70e0d764250.png)
