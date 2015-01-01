@@ -403,56 +403,6 @@ section.wide {
   width: 600px;
 }
 
-section#cover {
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  background: #111;
-  color: #666;
-  text-shadow: -1px -1px 0px #999;
-  background: url('http://i.imgur.com/hmUwHMV.jpg');
-  background-size: cover;
-}
-
-section#cover h1 {
-  margin: 0 0 20px 0;
-  font-family: Georgia, serif;
-  line-height: 0.9em;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-  font-weight: normal;
-  font-size: 300px; 
-  color: #000;
-  opacity: 0.65;
-  -webkit-transform: rotateZ(-5deg) translateY(50px) translateZ(-10px); 
-  -moz-transform: rotateZ(-5deg) translateY(50px) translateZ(-10px); 
-  -o-transform: rotateZ(-5deg) translateY(50px) translateZ(-10px); 
-  transform: rotateZ(-5deg) translateY(50px) translateZ(-10px); 
-}
-
-section#cover a:hover {
-  background: #333;
-  background: rgba(0,0,0,0.3);
-  text-shadow: none;
-  border: none;
-}
-
-section#cover a {
-  color: #eee;
-  text-decoration: none;
-  padding: 10px 45px;
-  border-radius: 50px;
-  margin-top: 20px;
-  display: inline-block;
-  transition: all 0.20s ease-out;
-  -webkit-transition: all 0.20s ease-out;
-  -moz-transition: all 0.20s ease-out;
-  -o-transition: all 0.20s ease-out;
-
-  -moz-transform: translateZ(50px);
-  -webkit-transform: translateZ(50px);
-}
-
 @media screen and (min-width: 776px) {
   span.xdate {
     position: relative;
