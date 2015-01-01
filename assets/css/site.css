@@ -103,6 +103,7 @@ a {
   color: #225a93;
   color: #2766A5;
   color: #A52727;
+  color: #CD5B5B;
   font-weight: 400;
   text-decoration: none;
 }
@@ -249,6 +250,9 @@ header a.back:hover {
   margin: 40px;
 }
 
+ul.posts {
+  font-size: 20px;
+}
 article.post {
   margin-bottom: 60px;
 }
