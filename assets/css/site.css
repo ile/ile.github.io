@@ -525,10 +525,7 @@ section.wide {
     width: 24px;
     border-radius: 100%;
     display: inline-block;
-    margin-right: 10px;
-    border:solid 3px #fff;
-    box-shadow: 0px 0px 5px #888;
-
+    margin-left: 6px;
   }
 
 
