@@ -4,10 +4,10 @@
       <li class="pull-left {% if page.url == node.url %}selected{% endif %}">
         <a href="/">ilkka huotari</a>
       </li>
-      <li>
-        <a href="/projects" class=" {% if page.url == node.url %}selected{% endif %}">projects</a>
+      <li class="{% if page.url == node.url %}selected{% endif %}">
+        <a href="/projects">projects</a>
       </li>
-      <li class="ml">
+      <li class="ml {% if page.url == node.url %}selected{% endif %}">
         <a href="/contact">contact</a>
       </li>
     </ul>
