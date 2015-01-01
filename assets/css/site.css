@@ -110,8 +110,8 @@ a {
 
 .pane-projects a span, .pane-projects a img {
   float: left;
-  margin: 0 5px 5px 0;
-  width: 36px;
+  margin: 0 25px 5px 0;
+  width: 100px;
 }
 
 .pane-projects a {
