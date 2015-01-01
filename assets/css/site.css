@@ -571,7 +571,16 @@ section#cover a {
     margin-left: auto;
     margin-right: auto;
   }
-  header .inner {
+  .pull-left {
+    float: left;
+  }
+
+  header .inner ul {
+    list-style-type: none;
+  }
+
+  header .inner ul li {
+    display: inline;
   }
 
   header {
@@ -579,7 +588,7 @@ section#cover a {
     margin-bottom: 70px;
     padding-top: 5px;
     color: #333;
-    text-align: center;
+    text-align: right;
   }
 
   article img {
