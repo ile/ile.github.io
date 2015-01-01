@@ -548,7 +548,7 @@ section#cover a {
     padding:; 5px 0;
   }
 
-  header .inner ul li:hover, .selected {
+  header .inner ul li:hover, header .inner ul li.selected {
     border-bottom: solid 4px #A3CCF4;
   }
 
