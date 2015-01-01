@@ -1,13 +1,13 @@
 <header id="nav">
   <div class="inner">
     <ul>
-      <li class="pull-left {% if page.url == node.url %}selected{% endif %}">
+      <li class="pull-left {% if page.url == '/' %}selected{% endif %}">
         <a href="/">ilkka huotari</a>
       </li>
-      <li class="{% if page.url == node.url %}selected{% endif %}">
+      <li class="{% if page.url == '/projects/' %}selected{% endif %}">
         <a href="/projects">projects</a>
       </li>
-      <li class="ml {% if page.url == node.url %}selected{% endif %}">
+      <li class="ml {% if page.url == '/contact/' %}selected{% endif %}">
         <a href="/contact">contact</a>
       </li>
     </ul>
