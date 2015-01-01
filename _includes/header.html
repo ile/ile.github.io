@@ -2,7 +2,7 @@
   <div class="inner">
     <ul>
       <li class="pull-left {% if page.url == '/' %}selected{% endif %}">
-        <a href="/">ilkka huotari</a>
+        <a href="/">ilkka huotari</a> <img src="https://0.gravatar.com/avatar/ed1112b7c4a08b9da7b6148dbfd6ff9b" class="round">
       </li>
       <li class="{% if page.url == '/projects/' %}selected{% endif %}">
         <a href="/projects">projects</a>
@@ -13,21 +13,3 @@
     </ul>
   </div>
 </header>
-
-<!--
-<div class="container site">
-  <div class="page-header">
-    <div class="pull-right">
-    {% if page.date %}
-      <div class="page-date pull-right">{{ page.date | date_to_string }}</div>
-    {% endif %}
-    </div>
-    <h1 class="title">{% if page.url != '/' %}<a href="/" title="{{ site.name }}">..</a>{% endif %} {{ page.title }}  
-      <div >
-        <small class="description">
-          {{ page.description }}
-        </small>
-      </div>
-    </h1>
-  </div>
--->
