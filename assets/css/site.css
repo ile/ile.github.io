@@ -539,13 +539,15 @@ section#cover a {
   header .inner ul li {
     display: inline-block;
     margin: 5px 0;
+    transition: 0.3s all;
+    border-bottom: solid 1px rgba(255,255,255,0);
   }
 
   header .inner ul li a {
     padding:; 5px 0;
   }
 
-  header .inner ul li a:hover, .selected {
+  header .inner ul li:hover, .selected {
     border-bottom: solid 4px #A3CCF4;
   }
 
