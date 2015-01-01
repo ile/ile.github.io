@@ -482,12 +482,12 @@ section.wide {
   header .inner ul li {
     display: inline-block;
     margin: 5px 0;
-    transition: 0.3s all;
     border-bottom: solid 4px rgba(255,255,255,0);
   }
 
   header .inner ul li a {
     padding:; 5px 0;
+    transition: 0.3s all;
   }
 
   header .inner ul li:hover a, header .inner ul li.selected a {
