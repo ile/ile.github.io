@@ -490,7 +490,7 @@ section.wide {
     padding:; 5px 0;
   }
 
-  header .inner ul li:hover, header .inner ul li.selected {
+  header .inner ul li:hover a, header .inner ul li.selected a {
     border-bottom: solid 4px #A3CCF4;
   }
 
