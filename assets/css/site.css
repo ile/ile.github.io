@@ -576,7 +576,6 @@ section#cover a {
     width: 100%;
     margin-bottom: 70px;
     padding-top: 5px;
-    color: #555;
     text-align: right;
     border-bottom: solid 1px #eee;
   }
@@ -609,7 +608,7 @@ section#cover a {
 
   header a {
     vertical-align: middle;
-    color: #555;
+    color: #666;
   }
 
   header .info {
