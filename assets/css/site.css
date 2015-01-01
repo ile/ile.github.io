@@ -577,7 +577,8 @@ section#cover a {
     margin-bottom: 70px;
     padding-top: 5px;
     text-align: right;
-    border-bottom: solid 1px #eee;
+    border-bottom: solid 1px #f1f1f1;
+    background: #fefefe;
   }
 
   article img {
