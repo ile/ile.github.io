@@ -34,15 +34,6 @@ h2, h3, h4, h5, h6, p, blockquote {
   padding: 0;
 }
 
-/*
-body.home #nav .inner h1 {
--webkit-animation:1.5s enter;
-   -moz-animation:1.5s enter;
-    -ms-animation:1.5s enter;
-     -o-animation:1.5s enter;
-        animation:1.5s enter;
-}
-*/
 body.home section.home, body.home section.home * {
 -webkit-animation:2s enter;
    -moz-animation:2s enter;
@@ -246,6 +237,10 @@ ul.posts {
 
 .home ul.posts li {
   margin: 20px 0;
+}
+
+.home ul.posts li a {
+  font-weight: 700;
 }
 
 article.post {
