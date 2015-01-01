@@ -257,6 +257,11 @@ header a.back:hover {
 ul.posts {
   font-size: 20px;
 }
+
+ul.posts li {
+  margin: 20px 0;
+}
+
 article.post {
   margin-bottom: 60px;
 }
