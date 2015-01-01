@@ -131,25 +131,6 @@ a {
   text-decoration: none;
 }
 
-.pane-projects a:after {
-  content: '';
-  position: absolute;
-  display: block;
-  height: 100%;
-  width: 0;
-  left: -12px;  
-  top: 0;
-  bottom: 0;
-  background: transparent;
- -webkit-transition: all ease 0.4s;
-  -moz-transition: all ease 0.4s;
-  transition: all ease 0.4s;    
-}
-.pane-projects a:hover:after {
-  width: 5px;
-  background: #ddd;
-}
-
 article a:hover, section a:hover {
   text-decoration: underline;
 }
