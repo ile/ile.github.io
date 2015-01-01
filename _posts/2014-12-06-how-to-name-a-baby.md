@@ -12,4 +12,4 @@ The site is made with [DerbyJS](http://derbyjs.com) (actually with my unpublishe
 
 One caveat though: your baby's name will be in Finnish. I hope that's not a problem! 
 
-![image](https://cloud.githubusercontent.com/assets/433707/5326259/67966ba8-7d17-11e4-9ca1-e70e0d764250.png)
+![image](https://cloud.githubusercontent.com/assets/433707/5592508/b3548f10-91db-11e4-911b-c53bfdfb2fc5.png)
