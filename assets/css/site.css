@@ -121,6 +121,7 @@ a {
   transition: all 0.5s;
   border-left: solid 5px transparent;
   position: relative;
+  color: #000;
 }
 
 .pane-projects a:hover {
