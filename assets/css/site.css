@@ -334,10 +334,6 @@ pre code {
   text-align: center;
 }
 
-.home ul li {
-  margin: 10px 0;
-}
-
 .home ul p {
   color: #000;
   margin: 0;
@@ -569,6 +565,7 @@ section#cover a {
 
   header .inner ul li {
     display: inline-block;
+    margin: 10px 0;
   }
 
   header .inner ul li.ml {
