@@ -511,7 +511,7 @@ section.wide {
     display: inline-block;
   }
 
-  header h1 img {
+  img.round {
     vertical-align: middle;
     width: 60px;
     border-radius: 100%;
