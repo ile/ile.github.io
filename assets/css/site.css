@@ -568,7 +568,7 @@ section#cover a {
   }
 
   header .inner ul li {
-    display: inline;
+    display: inline-block;
   }
 
   header .inner ul li.ml {
@@ -581,6 +581,7 @@ section#cover a {
     padding-top: 5px;
     color: #555;
     text-align: right;
+    border-bottom: solid 1px #eee;
   }
 
   article img {
