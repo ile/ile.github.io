@@ -485,17 +485,17 @@ section.wide {
 
   header .inner ul li {
     display: inline-block;
-    margin: 5px 0;
-    border-bottom: solid 4px rgba(255,255,255,0);
   }
 
   header .inner ul li a {
-    padding:; 5px 0;
     transition: 0.3s all;
+    display: inline-block;
+    border-bottom: solid 1px transparent;
+    line-height: 47px;
   }
 
   header .inner ul li:hover a, header .inner ul li.selected a {
-    border-bottom: solid 4px #A3CCF4;
+    border-bottom: solid 1px #A3CCF4;
   }
 
   header .inner ul li.ml {
