@@ -10,25 +10,12 @@ description: Ilkka Huotari
       <li>
         <span class="date">{{ post.date | date_to_string }}</span>
         <a href="{{ post.url }}">{{ post.title }}</a>
-          {% if post.description %}
-            <p class="list-group-item-text">{{ post.description }}</p>
+          {% if post.content %}
+            <p class="list-group-item-text">{{ post.content }}</p>
           {% endif %}
       </li>
       {% endfor %}
     </ul>
-
-    <div id="home" class="row">
-      <div class="col-sm-3">
-        <div class="list-group posts">
-        {% for post in site.pages %}{% if post.url != page.url and post.title != null %}
-          <a href="{{ post.url }}" title="{{ post.description }}" class="list-group-item">
-            {{ post.title }}
-          </a>
-          {{ post.excerpt }}
-        {% endif %}{% endfor %}
-        </div>
-      </div>
-    </div>
 </section>
 
 
