@@ -235,6 +235,11 @@ ul.posts {
   font-size: 20px;
 }
 
+ul.posts img {
+  max-width:95%;
+  margin: auto;
+}
+
 .home ul.posts li {
   margin: 20px 0;
 }
