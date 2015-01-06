@@ -75,7 +75,7 @@ h2 {
 }
 
 h3 {
-  font-size: 28px;
+  font-size: 30px;
   margin-bottom: 0.6em;
 }
 
@@ -246,7 +246,7 @@ ul.posts img {
 }
 
 .home ul.posts li a {
-  font-weight: 700;
+  font-weight: 100;
   color: #555;
 }
 
