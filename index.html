@@ -10,8 +10,8 @@ description: Ilkka Huotari
       <li>
         <span class="date">{{ post.date | date_to_string }}</span>
         <a href="{{ post.url }}">{{ post.title }}</a>
-          {% if post.content %}
-            <p class="list-group-item-text">{{ post.content }}</p>
+          {% if post.excerpt %}
+            <p class="list-group-item-text">{{ post.excerpt }}</p>
           {% endif %}
       </li>
       {% endfor %}
