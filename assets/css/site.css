@@ -250,12 +250,12 @@ ul.posts img {
   color: #555;
 }
 
-article.post {
+article.blog {
   margin-bottom: 60px;
   font-size: 15px;
 }
 
-article.post .content img {
+article.blog .content img {
   max-width: 100%;
 }
 
