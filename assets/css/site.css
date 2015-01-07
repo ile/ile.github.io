@@ -406,13 +406,9 @@ section.gray {
 }
 
 article, section {
-  width: 500px;
+  width: 600px;
   margin: 0 auto;
   padding: 0 0 250px 0;
-}
-
-section.wide {
-  width: 600px;
 }
 
 #post-nav {
