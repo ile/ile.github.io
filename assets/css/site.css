@@ -196,6 +196,9 @@ footer li {
   margin-right: 10px;
 }
 
+header {
+  font-family: 'Lobster Two';
+}
 header h1 {
   font-size: 26px;
   line-height: 26px;
