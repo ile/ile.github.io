@@ -363,6 +363,11 @@ ul {
   padding: 0;
 }
 
+article ul {
+  list-style-type: bullet;
+  margin: 0 0 0 20px;
+}
+
 .logo {
   width: 32px;
   height: 32px;
