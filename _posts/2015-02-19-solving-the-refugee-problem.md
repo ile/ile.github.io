@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solving the refugee problem"
-published: false
+published: true
 ---
 
 Refugees and asylum seekers have caused quite a debate in Europe recent years. Asylum seeking has replaced the refugee system in practice &emdash; asylum seekers skip the refugee camps and travel across the Mediterranea by boats, [some of which](http://www.bbc.com/news/world-europe-31414009) [sink on the way](http://www.unhcr.org/4f2803949.html).
