@@ -8,7 +8,7 @@ Refugees and asylum seekers have caused quite a debate in Europe recent years. A
 
 Settlement on the European soil causes all kinds of problems, stemming from cultural differences for example. It's not a particular good solution for refugees/asylum seekers themselves, neither it is for Europe.
 
-![](http://upload.wikimedia.org/wikipedia/commons/9/94/The_Sahrawi_refugees_%E2%80%93_a_forgotten_crisis_in_the_Algerian_desert_%287%29.jpg)
+![The living conditions on refugee camps have been neglected for the most part](http://upload.wikimedia.org/wikipedia/commons/9/94/The_Sahrawi_refugees_%E2%80%93_a_forgotten_crisis_in_the_Algerian_desert_%287%29.jpg)
 
 Refugee problem is a big problem that needs to be solved. Here's how one would do it.
 
