@@ -19,6 +19,7 @@ So, what Europe/anyone willing to help would do, is:
 - Set up refugee camps in nations near the conflict areas. Those camps should be built to last for a good number of years (e.g. 10), so they should not be tents, but instead more like normal buildings.
 - Protection should be arranged. In other words, these would be safe places ("asylums").
 - Everything should be done in co-operation with the host nations. Freedom of movement may need to be restricted; in other words, the camps may have to have some border control. This would ensure that the camps server their dedicated purpose and would not become destinations for people that don't actually need the camp environment.
+- Asylum seekers coming to Europe would be sent to these camps.
 
 Education should be arranged to people on those camps. What this would do is that people on the less developed nations would get educated on equality matters and such, and when, in the future, people return to thei home countries, they would bring this knowledge with them, and thus help develop their home countries. Currently this knowledge doesn't transfer to the home countries easily, because there is quite a bit of friction for refugees to return their home countries.
 
