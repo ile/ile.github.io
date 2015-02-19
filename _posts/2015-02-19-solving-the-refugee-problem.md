@@ -16,7 +16,7 @@ The answer lies in the method that Australia has used; in the so called [PNG sol
 
 So, what Europe/anyone willing to help would do, is:
 
-- Set up refugee camps in nations near the conflict areas. Those camps should be built to last for a good number of years (e.g. 10), so they should not be tents, but instead more like normal buildings.
+- Set up refugee camps in nations near the conflict areas. Those camps should be built to last for a good number of years (e.g. 10-20), so they should not be tents, but instead more like normal buildings.
 - Protection should be arranged. In other words, these would be safe places ("asylums").
 - Everything should be done in co-operation with the host nations. Freedom of movement may need to be restricted; in other words, the camps may have to have some border control. This would ensure that the camps serve their dedicated purpose and would not become destinations for people that don't actually need the camp environment.
 - Asylum seekers coming to Europe would be sent to these camps.
