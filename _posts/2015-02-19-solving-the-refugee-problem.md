@@ -10,4 +10,5 @@ Settlement on the European soil causes all kinds of problems, stemming from cult
 
 Refugee problem is a big problem that needs to be solved. Here's how one would do it.
 
-The answer lies in the method that Australia has used; in the so called [PNG solution](http://en.wikipedia.org/wiki/PNG_solution). Australia is not offering a home for refugees on the Australian soil, instead they are sending them to refugee camps on Papua New Guinea. This has stopped the flow of refugees for the most part (judging from statistics are not easy to come by though).
+The answer lies in the method that Australia has used; in the so called [PNG solution](http://en.wikipedia.org/wiki/PNG_solution). Australia is not offering a home for refugees on the Australian soil, instead they are sending them to refugee camps on Papua New Guinea. This has stopped the flow of refugees for the most part; for example [only one boat successfully arrived in Australia in year 2014](http://www.smh.com.au/federal-politics/political-news/scott-morrison-cuts-off-access-to-australia-for-refugees-in-indonesia-20141118-11p7ww.html).
+
