@@ -6,7 +6,7 @@ published: false
 
 Refugees and asylum seekers have caused quite a debate in Europe recent years. Asylum seeking has replaced the refugee system in practice -- asylum seekers skip the refugee camps and travel across the Mediterranea by boats, [some of which](http://www.bbc.com/news/world-europe-31414009) [sink on the way](http://www.unhcr.org/4f2803949.html).
 
-Settlement on the European soil causes all kinds of problems, stemming from cultural differences for example. It's not a particular good solution for refugees/asylum seekers themselves, neither it is for Europe.
+Settlement on the European soil causes all kinds of problems, stemming from cultural differences, for example. It's not a particular good solution for refugees/asylum seekers themselves, neither it is for Europe.
 
 ![The living conditions on refugee camps have been neglected for the most part](http://upload.wikimedia.org/wikipedia/commons/9/94/The_Sahrawi_refugees_%E2%80%93_a_forgotten_crisis_in_the_Algerian_desert_%287%29.jpg)
 
