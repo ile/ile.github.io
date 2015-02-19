@@ -14,9 +14,7 @@ Refugee problem is a big problem that needs to be solved. Here's how one would d
 
 The answer lies in the method that Australia has used; in the so called [PNG solution](http://en.wikipedia.org/wiki/PNG_solution). Australia is not offering a home for refugees on the Australian soil, instead they are sending them to refugee camps on Papua New Guinea. This has stopped the flow of refugees for the most part; for example [only one boat successfully arrived in Australia in year 2014](http://www.smh.com.au/federal-politics/political-news/scott-morrison-cuts-off-access-to-australia-for-refugees-in-indonesia-20141118-11p7ww.html).
 
-So, what Europe/anyone willing to help would do, is
-
-![No more tents. Make the camps habitable!](http://upload.wikimedia.org/wikipedia/commons/c/c1/Darfur_refugee_camp_in_Chad.jpg)
+So, what Europe/anyone willing to help would do, is:
 
 - Set up refugee camps in nations near the conflict areas. Those camps should be built to last for a good number of years (e.g. 10), so they should not be tents, but instead more like normal buildings.
 - Protection should be arranged. In other words, these would be safe places ("asylums").
@@ -26,3 +24,4 @@ Education should be arranged to people on those camps. What this would do is tha
 
 I see only positive things that could come out of this solution. Let's make it happen.
 
+![No more tents. Make the camps habitable!](http://upload.wikimedia.org/wikipedia/commons/c/c1/Darfur_refugee_camp_in_Chad.jpg)
