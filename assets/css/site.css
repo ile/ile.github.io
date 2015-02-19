@@ -364,8 +364,8 @@ ul {
 }
 
 article ul {
-  list-style-type: bullet;
-  margin: 0 0 0 20px;
+  list-style-type: circle;
+  margin: 0 0 0 40px;
 }
 
 .logo {
