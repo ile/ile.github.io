@@ -22,6 +22,4 @@ So, what Europe/anyone willing to help would do, is:
 
 Education should be arranged to people on those camps. What this would do is that people on the less developed nations would get educated on the equality matters and such, and when, in the future, people return to thei home countries, they would bring this knowledge with them, and thus help develop their home countries.
 
-![No more tents. Make the camps habitable!](http://upload.wikimedia.org/wikipedia/commons/c/c1/Darfur_refugee_camp_in_Chad.jpg)
-
 I see only positive things that could come out of this solution. Let's make it happen.
