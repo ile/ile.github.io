@@ -91,6 +91,12 @@ Let's authorize the app.
 
 ### 8. We should be all set. Write a status message.
 
+Now after writing the status message you should get a callback from Facebook.
+
+If you got this far and got the callback, you will get a user id and 'changed fields' to notify you what has changed. This won't get you the actual status message but you will have to go get it with the Graph API. That is another story. 
+
+The code for this excercise is at 
+
 
 
 
