@@ -29,3 +29,11 @@ Site URL and App Domains. Not sure if these are mandatory but they don't seem to
 
 This is the important stuff. Here you will setup the subscriptions that the App is tracking. First, you can see that the sunscriptions are empty by doing a GET request. Fill your own App ID. Click the `Get App Token` to automatically authorize the request.
 
+### 4. In your server code, set up the callback for the upcoming subscript setup
+
+When you use the Graph API Explorer there will be a request to your server to verify the callback url you will be using for the real subscriptions.
+
+Facebook will issue a GET request to this url with some parameters. The parameters are `hub.challenge` and `hub.verify_token`. You will need to send the `hub.challenge` back in the request handler. `hub.verify_token` is for you to check that it is the same which you were expecting (you will set it yourself in a bit).
+
+### 5.
+
