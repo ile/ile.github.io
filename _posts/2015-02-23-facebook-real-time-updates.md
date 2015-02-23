@@ -39,7 +39,7 @@ Facebook will issue a GET request to this url with some parameters. The paramete
 
 For example, here is the JavaScript code for this request step:
 
-{% highlight js %}
+{% highlight js lineos %}
 router.get('/cb', function(req, res, next) {
 	console.log('get /cb', req.query);
 	if (req.query['hub.verify_token'] === 'moi') {
