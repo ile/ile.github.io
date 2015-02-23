@@ -69,7 +69,7 @@ The code to set this up can be taken from Facebook's docs, for example [here](ht
 
 The permissions are setup in the JavaScript code for now. Whenever your Facebook App goes public (now it's in the test mode) you will need to setup the permissions in the App as well.
 
-So, edit the JS:
+So, edit the Html/JS we got from Facebook's docs:
 
 ```html
 <fb:login-button scope="public_profile,email,user_status" onlogin="checkLoginState();"></fb:login-button>
