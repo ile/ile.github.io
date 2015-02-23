@@ -11,9 +11,9 @@
       <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
       <link rel="icon" type="image/png" href="https://0.gravatar.com/avatar/ed1112b7c4a08b9da7b6148dbfd6ff9b">
       <link href="/feed.rss" rel="alternate" type="application/rss+xml" title="Ilkka Huotari's rss" />
-      <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-      <link rel="stylesheet" href="/assets/bower_components/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
-      <script type="text/javascript" src="/assets/bower_components/fancybox/source/jquery.fancybox.pack.js"></script>
+      <script src="//zeptojs.com/zepto.min.js"></script>
+      <link rel="stylesheet" href="/assets/bower_components/magnific-popup/dist/magnific-popup.css" type="text/css" media="screen" />
+      <script type="text/javascript" src="/assets/bower_components/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
   </head>
   <body class="{{ page.page }}">
     <div class="container">
@@ -41,10 +41,7 @@
       });
 
       $(document).ready(function() {
-        $("article.blog a[href$='.jpg'],article.blog a[href$='.jpeg'],article.blog a[href$='.png'],article.blog a[href$='.gif']").attr('rel', 'gallery').fancybox({
-            padding : 0,
-            openEffect  : 'elastic'
-        });
+        $("article.blog a[href$='.jpg'],article.blog a[href$='.jpeg'],article.blog a[href$='.png'],article.blog a[href$='.gif']").magnificPopup({type:'image'});
       });
 
     </script>
