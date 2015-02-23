@@ -97,7 +97,7 @@ The code for this excercise is here (a Node.js app): [https://github.com/ile/fb-
 
 In the server code, there is the app secret that you need to change. This is used for various things. Here is it used to decode the signed request for deauthorization POST messages.
 
-P.S. if you want to save some trouble with the dreaded FB API, you can hire me.
+P.S. if you want to save some time and trouble with the dreaded FB API, you can [hire me](http://ilkkah.com/contact).
 
 
 
