@@ -58,6 +58,11 @@ Here we are doing a POST request to setup the callback url and the fields that t
 
 If your callback url is working correctly you should get a success message back.
 
+Now, if you go back to step 4 and issue a GET request, you should see the subscription:
+
+![image](https://cloud.githubusercontent.com/assets/433707/6323566/52ace418-bb35-11e4-8b32-65b2bd7e1f80.png)
+
+
 ### 6. Setup the Login button and permissions
 
 With the login button the user is authorizing your app to track his/her status messages.
