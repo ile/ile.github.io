@@ -42,7 +42,8 @@
 
       $(document).ready(function() {
         $("article.blog a[href$='.jpg'],article.blog a[href$='.jpeg'],article.blog a[href$='.png'],article.blog a[href$='.gif']").magnificPopup({
-          type:'image',
+          type: 'image',
+          overflowY: 'scroll',
           zoom: {
             enabled: true
           },
