@@ -54,6 +54,12 @@ Here we are doing a POST request to setup the callback url and the fields that t
 
 If your callback url is working correctly you should get a success message back.
 
+### 6. Setup the Login button 
+
+With the login button the user is authorizing your app to track his/her status messages.
+
+The code to set this up can be taken from Facebook's docs, for example [here](https://developers.facebook.com/docs/facebook-login/login-flow-for-web/v2.2). This code will be using the Facebook JS SDK which will be loaded "on the fly" with the script snippet. You will need to add your app id into the correct place.
+
 
 
 
