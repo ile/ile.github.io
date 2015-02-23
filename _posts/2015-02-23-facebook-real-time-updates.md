@@ -85,6 +85,14 @@ Here we are issuing the permissions `public_profile,email,user_status`. In the t
 
 We should see the login button if we are lucky. Click it.
 
+![image](https://cloud.githubusercontent.com/assets/433707/6323635/390f9cf2-bb36-11e4-813e-7aa4778f4217.png)
+
+Let's authorize the app.
+
+### 8. We should be all set. Write a status message.
+
+
+
 
 
 
