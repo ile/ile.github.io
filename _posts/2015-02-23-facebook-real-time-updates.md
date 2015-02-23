@@ -95,7 +95,7 @@ Now after writing the status message you should get a callback from Facebook.
 
 If you got this far and got the callback, you will get a user id and 'changed fields' to notify you what has changed. This won't get you the actual status message but you will have to go get it with the Graph API. That is another story. 
 
-The code for this excercise is here (a Node.js app): https://github.com/ile/fb-real-time-example
+The code for this excercise is here (a Node.js app): https://github.com/ile/fb-real-time-example.
 
 P.S. if you want to save some trouble with the dreaded FB API, you can hire me.
 
