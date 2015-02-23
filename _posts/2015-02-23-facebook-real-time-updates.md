@@ -35,5 +35,26 @@ When you use the Graph API Explorer there will be a request to your server to ve
 
 Facebook will issue a GET request to this url with some parameters. The parameters are `hub.challenge` and `hub.verify_token`. You will need to send the `hub.challenge` back in the request handler. `hub.verify_token` is for you to check that it is the same which you were expecting (you will set it yourself in a bit).
 
-### 5.
+For example, here is the JavaScript code for this request step:
+
+```javascript
+router.get('/cb', function(req, res, next) {
+	console.log('get /cb', req.query);
+	if (req.query['hub.verify_token'] === 'moi') {
+		res.send(req.query['hub.challenge']);
+	}
+});
+```
+
+### 5. Set the subscription in Graph API Explorer
+
+![image](https://cloud.githubusercontent.com/assets/433707/6323445/dbe20112-bb32-11e4-809a-cad12d42ac69.png)
+
+Here we are doing a POST request to setup the callback url and the fields that this App will be tracking. Here we track the user's statuses (hence object `user` and fields `statuses`).
+
+If your callback url is working correctly you should get a success message back.
+
+
+
+
 
