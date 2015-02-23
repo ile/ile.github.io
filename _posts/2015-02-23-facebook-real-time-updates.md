@@ -39,14 +39,14 @@ Facebook will issue a GET request to this url with some parameters. The paramete
 
 For example, here is the JavaScript code for this request step:
 
-```javascript
+{% highlight js %}
 router.get('/cb', function(req, res, next) {
 	console.log('get /cb', req.query);
 	if (req.query['hub.verify_token'] === 'moi') {
 		res.send(req.query['hub.challenge']);
 	}
 });
-```
+{% endhighlight %}
 
 ### 5. Set the subscription in Graph API Explorer
 
