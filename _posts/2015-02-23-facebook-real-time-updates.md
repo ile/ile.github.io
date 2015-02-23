@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 ---
 
 ## Facebook real time updates
