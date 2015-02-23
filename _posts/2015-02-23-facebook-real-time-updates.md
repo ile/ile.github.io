@@ -23,6 +23,10 @@ Of type "www".
 
 Site URL and App Domains. Not sure if these are mandatory but they don't seem to hurt.
 
+![image](https://cloud.githubusercontent.com/assets/433707/6323490/d92533bc-bb33-11e4-92b9-5a34f39bf50e.png)
+
+Also set the deauthorize url. This will be called whenever the user deauthorizes your app. Knowing this will probably be useful.
+
 ### 3. Go to Graph API Explorer
 
 ![image](https://cloud.githubusercontent.com/assets/433707/6323376/9619e2b8-bb31-11e4-9505-b2d65bed8b51.png)
