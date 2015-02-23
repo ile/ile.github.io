@@ -11,7 +11,7 @@ I'm going to show the steps and explain along the way.
 
 ### 1. Create a new App
 
-![image](https://cloud.githubusercontent.com/assets/433707/6323320/7c59397e-bb30-11e4-977f-dd31ec095b05.png)
+[![image](https://cloud.githubusercontent.com/assets/433707/6323320/7c59397e-bb30-11e4-977f-dd31ec095b05.png)](https://cloud.githubusercontent.com/assets/433707/6323320/7c59397e-bb30-11e4-977f-dd31ec095b05.png)
 
 Of type "www".
 
