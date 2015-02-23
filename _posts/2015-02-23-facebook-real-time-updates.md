@@ -97,8 +97,7 @@ If you got this far and got the callback, you will get a user id and 'changed fi
 
 The code for this excercise is here: https://github.com/ile/fb-real-time-example
 
-
-
+P.S. if you want to save some trouble with the dreaded FB API, you can hire me.
 
 
 
