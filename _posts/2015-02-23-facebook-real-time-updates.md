@@ -58,11 +58,27 @@ Here we are doing a POST request to setup the callback url and the fields that t
 
 If your callback url is working correctly you should get a success message back.
 
-### 6. Setup the Login button 
+### 6. Setup the Login button and permissions
 
 With the login button the user is authorizing your app to track his/her status messages.
 
 The code to set this up can be taken from Facebook's docs, for example [here](https://developers.facebook.com/docs/facebook-login/login-flow-for-web/v2.2). This code will be using the Facebook JS SDK which will be loaded "on the fly" with the script snippet. You will need to add your app id into the correct place.
+
+The permissions are setup in the JavaScript code for now. Whenever your Facebook App goes public (now it's in the test mode) you will need to setup the permissions in the App as well.
+
+So, edit the JS:
+
+```html
+<fb:login-button scope="public_profile,email,user_status" onlogin="checkLoginState();"></fb:login-button>
+```
+
+Here we are issuing the permissions `public_profile,email,user_status`. In the test mode we don't need to bother Facebook with reviewing the app, but if we were to publish the app, we would submit our app for reviewing because we of the permission `user_status`.
+
+### 7. Start your server
+
+![image](https://cloud.githubusercontent.com/assets/433707/6323500/236661a8-bb34-11e4-9508-4f15b7c60d5d.png)
+
+We should see the login button if we are lucky. Click it.
 
 
 
