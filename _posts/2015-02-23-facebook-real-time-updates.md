@@ -75,7 +75,7 @@ So, edit the Html/JS we got from Facebook's docs:
 <fb:login-button scope="public_profile,email,user_status" onlogin="checkLoginState();"></fb:login-button>
 ```
 
-Here we are issuing the permissions `public_profile,email,user_status`. In the test mode we don't need to bother Facebook with reviewing the app, but if we were to publish the app, we would submit our app for reviewing because we of the permission `user_status`.
+Here we are issuing the permissions `public_profile,email,user_status`. In the test mode, we don't need to bother Facebook with reviewing the app, but if we were to publish the app, we would submit our app for reviewing because we of the permission `user_status`.
 
 ### 7. Start your server
 
