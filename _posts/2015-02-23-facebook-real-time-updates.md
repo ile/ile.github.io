@@ -17,17 +17,17 @@ Of type "www".
 
 ### 2. Do some basic setup
 
-![image](https://cloud.githubusercontent.com/assets/433707/6323339/db33a678-bb30-11e4-8e10-4841124c7e70.png)
+[![image](https://cloud.githubusercontent.com/assets/433707/6323339/db33a678-bb30-11e4-8e10-4841124c7e70.png)](https://cloud.githubusercontent.com/assets/433707/6323339/db33a678-bb30-11e4-8e10-4841124c7e70.png)
 
 Site URL and App Domains. Not sure if these are mandatory but they don't seem to hurt.
 
-![image](https://cloud.githubusercontent.com/assets/433707/6323490/d92533bc-bb33-11e4-92b9-5a34f39bf50e.png)
+[![image](https://cloud.githubusercontent.com/assets/433707/6323490/d92533bc-bb33-11e4-92b9-5a34f39bf50e.png)](https://cloud.githubusercontent.com/assets/433707/6323490/d92533bc-bb33-11e4-92b9-5a34f39bf50e.png)
 
 Also set the deauthorize url. This will be called whenever the user deauthorizes your app. Knowing this will probably be useful.
 
 ### 3. Go to Graph API Explorer
 
-![image](https://cloud.githubusercontent.com/assets/433707/6323376/9619e2b8-bb31-11e4-9505-b2d65bed8b51.png)
+[![image](https://cloud.githubusercontent.com/assets/433707/6323376/9619e2b8-bb31-11e4-9505-b2d65bed8b51.png)](https://cloud.githubusercontent.com/assets/433707/6323376/9619e2b8-bb31-11e4-9505-b2d65bed8b51.png)
 
 This is the important stuff. Here you will setup the subscriptions that the App is tracking. First, you can see that the sunscriptions are empty by doing a GET request. Fill your own App ID. Click the `Get App Token` to automatically authorize the request.
 
@@ -50,7 +50,7 @@ router.get('/cb', function(req, res, next) {
 
 ### 5. Set the subscription in Graph API Explorer
 
-![image](https://cloud.githubusercontent.com/assets/433707/6323445/dbe20112-bb32-11e4-809a-cad12d42ac69.png)
+[![image](https://cloud.githubusercontent.com/assets/433707/6323445/dbe20112-bb32-11e4-809a-cad12d42ac69.png)](https://cloud.githubusercontent.com/assets/433707/6323445/dbe20112-bb32-11e4-809a-cad12d42ac69.png)
 
 Here we are doing a POST request to setup the callback url and the fields that this App will be tracking. Here we track the user's statuses (hence object `user` and fields `statuses`).
 
@@ -58,7 +58,7 @@ If your callback url is working correctly you should get a success message back.
 
 Now, if you go back to step 4 and issue a GET request, you should see the subscription:
 
-![image](https://cloud.githubusercontent.com/assets/433707/6323566/52ace418-bb35-11e4-8b32-65b2bd7e1f80.png)
+[![image](https://cloud.githubusercontent.com/assets/433707/6323566/52ace418-bb35-11e4-8b32-65b2bd7e1f80.png)](https://cloud.githubusercontent.com/assets/433707/6323566/52ace418-bb35-11e4-8b32-65b2bd7e1f80.png)
 
 
 ### 6. Setup the Login button and permissions
