@@ -21,5 +21,11 @@ Of type "www".
 
 ![image](https://cloud.githubusercontent.com/assets/433707/6323339/db33a678-bb30-11e4-8e10-4841124c7e70.png)
 
-Not sure if these are mandatory but they don't seem to hurt.
+Site URL and App Domains. Not sure if these are mandatory but they don't seem to hurt.
+
+### 3. Go to Graph API Explorer
+
+![image](https://cloud.githubusercontent.com/assets/433707/6323376/9619e2b8-bb31-11e4-9505-b2d65bed8b51.png)
+
+This is the important stuff. Here you will setup the subscriptions that the App is tracking. First, you can see that the sunscriptions are empty by doing a GET request. Fill your own App ID. Click the `Get App Token` to automatically authorize the request.
 
