@@ -115,6 +115,10 @@ a {
   width: 170px;
 }
 
+.pane-projects a:hover {
+  background:#fcfcfc;
+}
+
 .pane-projects a {
   display: block;
   height: 100%;
@@ -122,6 +126,7 @@ a {
   border-left: solid 5px transparent;
   position: relative;
   color: #000;
+  overflow: hidden;
 }
 
 .pane-projects a:hover {
