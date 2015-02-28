@@ -127,6 +127,7 @@ a {
   position: relative;
   color: #000;
   overflow: hidden;
+  padding: 2em;
 }
 
 .pane-projects a:hover {
@@ -356,7 +357,6 @@ pre code {
   line-height: 22px;
   width: 100%;
   margin: 40px 0;
-  padding: 3em 2em;
 }
 
 .icons li {
