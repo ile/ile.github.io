@@ -443,134 +443,114 @@ article, section {
   float: right;
 }
 
-@media screen and (min-width: 776px) {
-  span.xdate {
-    position: relative;
-    color:#fff;
-    background: #bcb;
-    max-width: 50px;
-    margin-left:-80px;
-    padding: 5px;
-    display: inline-block;
-    text-align: center;
-    font-weight: bold;
-    font-size: 22px;
-    line-height: 30px;
-    border-radius: 3px;
-    color: rgba(255, 255, 255, 0.4);
-    text-shadow: -1px -1px rgba(0, 0, 0, 0.6);
-    float: left;
-  }
+.blog h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
 
-  .blog span.date {
-    float: none;
-  }
+.blog span.date {
+  float: none;
+}
 
-  span.date {
-    color: #999;
-    margin-left: 0px;
-    padding: 5px 15px;
-    display: inline-block;
-    text-align: center;
-    font-size: 14px;
-    border-radius: 30px;
-    line-height: 16px;
-    float: right;
-  }
+span.date {
+  color: #999;
+  margin-left: 0px;
+  padding: 5px 15px;
+  display: inline-block;
+  text-align: center;
+  font-size: 14px;
+  border-radius: 30px;
+  line-height: 16px;
+  float: right;
+}
 
-  .blog .header {
-    margin: auto;
-    text-align: center;
-  }
+.blog .header {
+  margin: auto;
+  text-align: center;
+}
 
-  .blog span.date {
-  }
+.blog span.date {
+}
 
-  .blog h1 {
-    text-align: center;
-    margin-bottom: 50px;
-    padding-bottom: 20px;
-  }
+.inner,
+#content {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
 
-  .inner,
-  #content {
-    width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-  }
+.pull-left {
+  position: absolute;
+  left: 0;
+}
 
-  .pull-left {
-    position: absolute;
-    left: 0;
-  }
+header .inner ul {
+  list-style-type: none;
+}
 
-  header .inner ul {
-    list-style-type: none;
-  }
+header .inner ul li {
+  display: inline-block;
+}
 
-  header .inner ul li {
-    display: inline-block;
-  }
+header .inner ul li a {
+  transition: 0.3s all;
+  display: inline-block;
+  border-bottom: solid 1px transparent;
+  line-height: 47px;
+}
 
-  header .inner ul li a {
-    transition: 0.3s all;
-    display: inline-block;
-    border-bottom: solid 1px transparent;
-    line-height: 47px;
-  }
+header .inner ul li:hover a, header .inner ul li.selected a {
+  border-bottom: solid 1px #A3CCF4;
+}
 
-  header .inner ul li:hover a, header .inner ul li.selected a {
-    border-bottom: solid 1px #A3CCF4;
-  }
+header .inner ul li.ml {
+  margin-left: 15px;
+}
 
-  header .inner ul li.ml {
-    margin-left: 15px;
-  }
+header {
+  width: 100%;
+  margin-bottom: 70px;
+  padding-top: 5px;
+  text-align: right;
+  border-bottom: solid 1px #f1f1f1;
+  background: #fefefe;
+}
 
-  header {
-    width: 100%;
-    margin-bottom: 70px;
-    padding-top: 5px;
-    text-align: right;
-    border-bottom: solid 1px #f1f1f1;
-    background: #fefefe;
-  }
+article img {
+  width: 98%;
+  margin: 30px auto;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
 
-  article img {
-    width: 98%;
-    margin: 30px auto;
-    box-shadow: 0 0 15px rgba(0,0,0,0.1);
-  }
+header h1 {
+  font-size: 28px;
+  line-height: 62px;
+  vertical-align: middle;
+  display: inline-block;
+}
 
-  header h1 {
-    font-size: 28px;
-    line-height: 62px;
-    vertical-align: middle;
-    display: inline-block;
-  }
-
-  img.round {
-    vertical-align: middle;
-    width: 24px;
-    border-radius: 100%;
-    display: inline-block;
-    margin-left: 6px;
-  }
+img.round {
+  vertical-align: middle;
+  width: 24px;
+  border-radius: 100%;
+  display: inline-block;
+  margin-left: 6px;
+}
 
 
-  header a {
-    vertical-align: middle;
-    color: #666;
-  }
+header a {
+  vertical-align: middle;
+  color: #666;
+}
 
-  header .info {
-    width: 500px;
-    height: 80%;
-    padding: 10px 40px;
-    margin: 10px auto;
-    display: block;
-  }
+header .info {
+  width: 500px;
+  height: 80%;
+  padding: 10px 40px;
+  margin: 10px auto;
+  display: block;
 }
 
 .mfp-with-zoom .mfp-container,
@@ -628,4 +608,8 @@ article, section {
 /* content animate out */
 .mfp-fade.mfp-wrap.mfp-removing .mfp-content {
   opacity: 0;
+}
+
+@media screen and (max-width: 600px) {
+  width: 90%;
 }
