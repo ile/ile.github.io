@@ -473,9 +473,9 @@ span.date {
 .blog span.date {
 }
 
-.inner,
-#content {
-  width: 600px;
+.inner, #content {
+  max-width: 600px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   position: relative;
@@ -611,5 +611,13 @@ header .info {
 }
 
 @media screen and (max-width: 600px) {
-  width: 90%;
+
+  article, section {
+    width: 90%;
+  }
+
+  .inner, #content {
+    width: 90%;
+  }
+  
 }
