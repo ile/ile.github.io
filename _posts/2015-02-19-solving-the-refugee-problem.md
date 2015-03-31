@@ -31,8 +31,12 @@ Glad you asked. Here's a "modern" refugee camp [Nahr el-Bared](http://www.dezeen
 
 Education should be provided to people on those camps. What this would do is that people on the less developed nations would get educated on equality matters and such, and when, in the future, people return to their home countries, they would bring this knowledge with them, and thus help develop their home countries. Currently this knowledge doesn't transfer to their home countries easily, because there is quite a bit of friction for refugees to return their home countries.
 
-I see only positive things that could come out of this solution. Let's make it happen.
+## Similar suggestions
+
+Recent VVD has made a similar suggestion: [](http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/).
+
 
 ### updates
 
 - 31.3.2015 Nahr el-Bared example.
+- 31.3.2015 VVD suggestion.
