@@ -33,7 +33,10 @@ Education should be provided to people on those camps. What this would do is tha
 
 ## Similar suggestions
 
-Recently the VVD party in Netherlands has made a similar suggestion: [http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/](http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/).
+Recently the VVD party in Netherlands has made a similar suggestion:
+- [http://www.vvd.nl/nieuws/458/vvd-wil-einde-aan-asielinstroom-europa](http://www.vvd.nl/nieuws/458/vvd-wil-einde-aan-asielinstroom-europa)
+- [http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/](http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/).
+
 
 
 ### updates
