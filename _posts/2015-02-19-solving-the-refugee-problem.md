@@ -35,12 +35,12 @@ Education should be provided to people on those camps. What this would do is tha
 
 Recently the VVD party in Netherlands has made a similar suggestion:
 
-- [http://www.vvd.nl/nieuws/458/vvd-wil-einde-aan-asielinstroom-europa](http://www.vvd.nl/nieuws/458/vvd-wil-einde-aan-asielinstroom-europa)
-- [http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/](http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/).
+- [http://www.vvd.nl/nieuws/458/vvd-wil-einde-aan-asielinstroom-europa](http://www.vvd.nl/nieuws/458/vvd-wil-einde-aan-asielinstroom-europa) ([archived](https://archive.today/lkrBZ))
+- [http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/](http://www.dutchnews.nl/news/archives/2015/03/vvd-mp-wants-closed-eu-borders-an-end-to-eu-asylum-policy/) ([archived](https://archive.today/Sy8ay))
 
 Also, something similar has been suggested in Denmark. Seems like nothing came out of it, though.
 
-- [http://cphpost.dk/news/df-and-liberal-alliance-propose-sending-refugees-back-to-countries-neighbouring-conflict-zones.11175.html](http://cphpost.dk/news/df-and-liberal-alliance-propose-sending-refugees-back-to-countries-neighbouring-conflict-zones.11175.html)
+- [http://cphpost.dk/news/df-and-liberal-alliance-propose-sending-refugees-back-to-countries-neighbouring-conflict-zones.11175.html](http://cphpost.dk/news/df-and-liberal-alliance-propose-sending-refugees-back-to-countries-neighbouring-conflict-zones.11175.html) ([archived](https://archive.today/W2vhG))
 
 ### updates
 
