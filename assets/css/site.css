@@ -613,11 +613,17 @@ header .info {
 .mfp-bottom-bar {
   background-color: #000;
   font-size: 14px;
+  margin-top: -40px;
 }
 
 .mfp-title {
   padding: 1em;
   font-weight: 600;  
+}
+
+.mfp-counter {
+  top: 5px;
+  right: 10px;
 }
 
 @media screen and (max-width: 600px) {
