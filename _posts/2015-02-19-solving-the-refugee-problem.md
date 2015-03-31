@@ -25,9 +25,9 @@ So, what Europe/anyone willing to help would do, is:
 
 Glad you asked. Here's a "modern" refugee camp [Nahr el-Bared](http://www.dezeen.com/2013/05/02/reconstruction-of-nahr-el-bared-refugee-camp/) that shows that this is possible, admittedly this is only for about 30 000 refugees. However, these are what are needed, more of them, maybe bigger ones.
 
-[![](https://cloud.githubusercontent.com/assets/433707/6909567/1e65f3b6-d750-11e4-97f2-ece9806a95d8.png)](https://cloud.githubusercontent.com/assets/433707/6909567/1e65f3b6-d750-11e4-97f2-ece9806a95d8.png)
+[![](https://cloud.githubusercontent.com/assets/433707/6909567/1e65f3b6-d750-11e4-97f2-ece9806a95d8.png)](https://cloud.githubusercontent.com/assets/433707/6909567/1e65f3b6-d750-11e4-97f2-ece9806a95d8.png "Nahr el-Bared refugee camp, doesn't look bad!")
 
-[![](https://cloud.githubusercontent.com/assets/433707/6909578/2e0372bc-d750-11e4-91b0-0b2aff0b80b7.png)](https://cloud.githubusercontent.com/assets/433707/6909578/2e0372bc-d750-11e4-91b0-0b2aff0b80b7.png)
+[![](https://cloud.githubusercontent.com/assets/433707/6909578/2e0372bc-d750-11e4-91b0-0b2aff0b80b7.png)](https://cloud.githubusercontent.com/assets/433707/6909578/2e0372bc-d750-11e4-91b0-0b2aff0b80b7.png "refugee camps are often permanent, this is what permanent should look like.")
 
 Education should be provided to people on those camps. What this would do is that people on the less developed nations would get educated on equality matters and such, and when, in the future, people return to their home countries, they would bring this knowledge with them, and thus help develop their home countries. Currently this knowledge doesn't transfer to their home countries easily, because there is quite a bit of friction for refugees to return their home countries.
 
