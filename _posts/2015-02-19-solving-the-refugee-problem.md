@@ -4,6 +4,8 @@ title: "Solving the refugee problem"
 published: true
 ---
 
+tl;dr: Australia's solution done right, with a big win for everybody.
+
 Refugees and asylum seekers have caused quite a debate in Europe in recent years. Asylum seeking has replaced the refugee system in practice -- asylum seekers skip the refugee camps and travel across the Mediterranean by boats, [some of which](http://www.bbc.com/news/world-europe-31414009) [sink on the way](http://www.unhcr.org/4f2803949.html).
 
 Settlement on the European soil causes all kinds of problems, stemming from cultural differences, for example. It's not a particular good solution for refugees/asylum seekers themselves, neither it is for Europe.
