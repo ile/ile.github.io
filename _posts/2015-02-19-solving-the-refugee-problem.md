@@ -2,6 +2,7 @@
 layout: post
 title: "Solving the refugee problem"
 published: true
+subtitle: "Australia's solution done right, with a big win for everybody."
 ---
 
 *tl;dr: Australia's solution done right, with a big win for everybody.*
