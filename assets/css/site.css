@@ -447,7 +447,7 @@ article, section {
   text-align: center;
 }
 
-.blog h2 {
+.blog .header h2 {
   text-align: center;
   font-style: italic;
   font-weight: normal;
