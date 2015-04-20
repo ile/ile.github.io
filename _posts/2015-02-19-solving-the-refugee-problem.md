@@ -43,7 +43,11 @@ Also, something similar has been suggested in Denmark. Seems like nothing came o
 
 - [http://cphpost.dk/news/df-and-liberal-alliance-propose-sending-refugees-back-to-countries-neighbouring-conflict-zones.11175.html](http://cphpost.dk/news/df-and-liberal-alliance-propose-sending-refugees-back-to-countries-neighbouring-conflict-zones.11175.html) ([archived](https://archive.today/W2vhG))
 
+Tybring-Gjedde suggested a big asylum center in Turkey.
+- [http://www.nettavisen.no/nyheter/vil-opprette-en-asylmottak-med-plass-til-2-millioner-asylskere/3422775857.html](http://www.nettavisen.no/nyheter/vil-opprette-en-asylmottak-med-plass-til-2-millioner-asylskere/3422775857.html) ([archived](https://archive.today/rZUVA))
+
 ### updates
 
 - 31.3.2015 Nahr el-Bared example.
 - 31.3.2015 VVD suggestion.
+- 20.4.2015
