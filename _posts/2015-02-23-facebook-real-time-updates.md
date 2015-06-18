@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+comments: true
 ---
 
 Facebook's Graph API is such a big mess^H complicated process that after having tackled it down I'm compelled to write this post, and maybe other ones later.
