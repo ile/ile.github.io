@@ -31,7 +31,7 @@ Also set the deauthorize url. This will be called whenever the user deauthorizes
 
 This is the important stuff. Here you will setup the subscriptions that the App is tracking. First, you can see that the sunscriptions are empty by doing a GET request. Fill your own App ID. Click the `Get App Token` to automatically authorize the request.
 
-### 4. In your server code, set up the callback for the upcoming subscript setup
+### 4. In your server code, set up the callback for the upcoming call
 
 When you use the Graph API Explorer there will be a request to your server to verify the callback url you will be using for the real subscriptions.
 
