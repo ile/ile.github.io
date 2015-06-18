@@ -633,6 +633,10 @@ header .info {
   right: 10px;
 }
 
+#disqus_thread {
+  margin-top: 2em;
+}
+
 @media screen and (max-width: 600px) {
 
   article, section {
@@ -644,3 +648,4 @@ header .info {
   }
   
 }
+
