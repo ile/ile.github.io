@@ -634,7 +634,7 @@ header .info {
 }
 
 #disqus_thread {
-  margin-top: 2em;
+  margin-top: 4em;
 }
 
 @media screen and (max-width: 600px) {
