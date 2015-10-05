@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kansalaiskeskustelu.fi"
-published: false
+published: true
 ---
 
 A blogging site that I've been doing is now ready: http://kansalaiskeskustelu.fi/. This site in question is intended for discussions about politics, and about general societal subjects, in Finland. 
