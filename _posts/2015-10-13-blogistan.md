@@ -9,3 +9,4 @@ Another blogging site that I have been doing — a sister project to [http://kan
 It's a site for casual blogging while kansalaiskeskustelu.fi is a site for political/societal blogging. Blogistan.fi is intended to be used with an alias as well as one's real name.
 
 Now, it just needs the users!
+
