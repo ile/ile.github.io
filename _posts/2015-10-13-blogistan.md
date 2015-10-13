@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blogistan.fi.fi"
+title: "Blogistan.fi"
 published: true
 ---
 
