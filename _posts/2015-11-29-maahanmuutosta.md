@@ -4,7 +4,7 @@ title: "maahanmuutosta.fi"
 published: true
 ---
 
-And still another site with the Kantele framework — [maahanmuutosta.fi](maahanmuutosta.fi) — and it took just one week to create this. The domain was registered justa about one week ago and the site has been live now for a few days.
+And still another site with the Kantele framework — [maahanmuutosta.fi](http://maahanmuutosta.fi) — and it took just one week to create this. The domain was registered justa about one week ago and the site has been live now for a few days.
 
 ![image](https://cloud.githubusercontent.com/assets/433707/10806241/76635ad0-7ddc-11e5-8cb0-eaa00d8d7b03.png)
 
