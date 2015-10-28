@@ -13,3 +13,5 @@ This site collects news stories and blog posts about immigration, which is a hot
 It uses a lot of components that were created for the blogging sites. The component system of Kantele/DerbyJS is pretty awesome, BTW.
 
 Some new components were created for this as well, for example a screen scraping component that uses [PhantomJS](http://phantomjs.org/).
+
+If you like what you see, you can hire me for creating a site for yourself.
