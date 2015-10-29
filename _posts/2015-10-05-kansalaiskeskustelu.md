@@ -10,4 +10,4 @@ The site is powered by a blogging platform that has been created with [Kantele](
 
 I'm planning to create other sites with this software. If you would like to use this software for a site, please get in touch.
 
-![image](https://cloud.githubusercontent.com/assets/433707/10271933/578e5420-6b21-11e5-8d9f-fcb29e82135d.png)
+![image](https://cloud.githubusercontent.com/assets/433707/10822743/1524e2b8-7e61-11e5-875e-8be4fb245b70.png)
