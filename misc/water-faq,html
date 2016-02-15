@@ -1,0 +1,1968 @@
+---
+layout: bare
+title: Jim Schulman's Insanely Long Water FAQ
+---
+
+<div class="content">
+<h2>Jim Schulman's Insanely Long Water FAQ</h2>
+<div class="box"><div style="text-align:left;float:left">
+	Provided by <a href="mailto:jim_schulman@myrealbox.com">Jim Schulman</a></div>
+	<div style="text-align:right">Originally posted on alt.coffee</div>
+</div>
+
+<h3>If you're only interested in the bottom line...</h3>
+
+<p>Use Volvic or Crystal Geyser Natural Alpine water in your home
+espresso machine. They have formulations that won't scale, but which
+still taste OK for coffee. On the other hand, if you want to take some
+pains and save some money, read on.
+</p>
+<h3>Content Note</h3>
+
+<p>The alt.coffee archives have answered almost all my coffee
+questions. However, the coverage on water problems seemed a little
+less than complete. So I'm adding this bit of research as a small
+repayment for all the help I've gotten here. It's too long to read in
+one sitting, so copy and peruse it at your leisure. Headings and
+subheadings are in block capitals; you can find what you need by
+scrolling through. There are several tables, so use a fixed pitch
+font. 
+</p>
+
+<p>This is not meant to be the authoritative word on water
+quality for coffee, I don't have nearly the expertise for that. I'm
+hoping to acquaint readers with enough information and sources so that
+we can argue water matters as proficiently as other coffee issues.
+There are bound to be mistakes in here, so I welcome all corrections.
+ This FAQ covers the effect of minerals in natural waters on
+coffee taste and coffee makers. It has four sections. The long first
+one explains how to measure scale related water properties and how to
+estimate scaling rates in espresso machines based on these.  The
+second looks at water treatments. The third taste tests espressos made
+with variously treated waters. The fourth puts together the
+conclusions of the first three and outlines water treatment and
+descaling options.
+</p>
+
+<p>The FAQ does not discuss water impurities such as chlorine,
+organic materials, or heavy metals, since they shouldn't be in any
+drinking water, and since they're removed by all water bottlers,
+reputable types of water filtration, and municipal water boards.
+Municipal levels of chlorine are removed by charcoal filtration,
+letting the water stand two hours, or heating it. If your waterboard
+uses chloramines for disinfection, the water should be charcoal
+filtered prior to taste sensitive food use, since these do not
+dissipate on their own.
+</p>
+
+<ol>
+<li>
+<h3>How to Measure Water Properties and Estimate Scaling Rates</h3>
+<ol>
+<li>
+<h4>Water Hardness Defined</h4>
+
+<p>Hardness is the term for the calcium or magnesium carbonate
+dissolved in water as Ca++, Mg++, and HCO3- (bicarbonate) ions. There
+are two measures of water hardness, hardness and alkalinity. Hardness
+measures the amount of positive calcium and magnesium ions; alkalinity
+the negative bicarbonate ions. Both measures are usually given in
+calcium carbonate, i.e. scale, equivalent units (abbreviated as
+CaCO3). This means when one unit of scale precipitates out of the
+water, hardness and alkalinity measured in CaCO3 units go down by one
+unit each.
+</p>
+
+<p>Alkalinity and hardness levels need not be the same, since the
+bicarbonates can be associated with potassium or sodium, and the
+calcium or magnesium with chlorides or sulphates. Usually, alkalinity
+is less than hardness, although some mineral waters and ion exchange
+softened waters rich in sodium or potassium may have higher levels of
+alkalinity.
+</p>
+
+<p>Sometimes alkalinity is called "temporary" or "carbonate"
+hardness, the difference between hardness and alkalinity, "permanent
+hardness", and the hardness itself, "total" or "general" hardness.
+This usage is common among aquarium owners, but does not accurately
+convey how scaling works.
+</p>
+
+<p>There are no health hazards associated with water hardness, so
+it is not subject to regulation. However, hard water causes scale, as
+well as the scumming and reduced lathering of soaps. Very soft waters,
+exposed to air or heat, become acidic and corrosive, and can harshen
+the taste of vegetables, tea, or coffee. So, several countries
+including the US, UK, Canada, and Germany have issued non-binding
+recommended hardness ranges. These are usually aroung 80 to 100mg/l
+hardness and 50 to 60 mg/l alkalinity, figures calculated to minimize
+the combined cost of scaling and corrosion in municipal piping and
+domestic hotwater systems. The levels required for taste, or for low
+maintenance steam boiler, spa, or aquarium operation, can be quite
+different. 
+</p>
+
+<p>Water boards call waters in the recommended range "neutral,"
+those below the recommended range are called "moderately soft," below
+half the range, "very soft," above the range "moderately hard", and
+above twice the range "very hard." However, the exact ranges referred
+to by these names varies, and one should always get the exact water
+analysis.
+</p>
+</li>
+<li>
+<h4>Limescale Precipitation, pHs &amp; the Langelier Index</h4>
+
+<p>Whether and how much scale precipitates depends on the water's
+alkalinity, hardness, temperature, and total dissolved solids.  These
+factors together define a quantity called pH at saturation, or pHs.
+pHs indicates the pH level at which the measured calcium/magnesium
+bicarbonate level is at equilibrium saturation. If the pHs exceeds the
+water's actual pH, no scale will form, in fact, existing scales will
+tend to dissolve into the water. This is how the hardness gets there
+in the first place, and why descalers are acids. If the pHs is less
+than the actual pH, lime will precipitate out of the water until the
+pH balance is restored. 
+</p>
+
+<p>The formula for pHs is as follows: The logs are base 10, T is
+temperature in centigrade, S is mg/l total dissolved solids, H is mg/l
+hardness, and A is mg/l alkalinity, both stated in CaCO3 equivalent
+units.
+</p>
+
+<div class="box" style="text-align:center">
+pHs = 44.15 + log(S)/10 - 13.12*log(T + 273) - log(H) - log(A)
+</div>
+
+<p>The quantity pH - pHs is called the Langelier Index or LI (sometimes
+called the Saturation Index or SI). A negative LI means no scaling, a
+positive one means scale will form. The LI formula is:
+</p>
+
+<div class="box" style="text-align:center">
+LI = pH + 13.12*log(T + 273) + log(H) + log(A) - log(S)/10 - 44.15</div>
+</li>
+<p>&nbsp;</p>
+<li>
+<h4>Water Analyses and Testing</h4>
+
+<p>Water authorities must publish their waters' composition, and
+many put up the analyses on municipal websites. Bottled waters also
+will provide a complete water analysis on request. Many bottlers state
+the composition of their water at this web site:
+http://www.bottledwaterweb.com/bott/  Unfortunately, some don't, and
+some analyses are incomplete. 
+</p>
+
+<p>Mineral levels are stated in a number of different measurement
+units: milligrams per liter (mg/l) is standard. Parts per million
+(ppm), and the milligrams per decimeter cubed (mg/dM3) used by MKS
+fanatics, are identical to mg/l. French degrees is mg/l divided by 10.
+Grains per US gallon is mg/l divided by 17.2. English degrees is mg/l
+divided by 14.3 (grains per Imperial gallon). German degrees (DH) or
+mmeq/l (the ueberscientific millimoles equivalent per liter) is mg/l
+divided by 17.9. Feel free to invent your own unit and add it here.
+</p>
+
+<p>Finally, bottled waters mostly report their minerals as
+straight elemental mg/l or ppm rather than mg/l CaCO3 equivalents. To
+get the alkalinity, multiply the bicarbonate by 0.82; to get hardness
+multiply the calcium by 2.5, the magnesium by 4.2, and add the two. If
+the water is fizzy, and bicarbonate level isn't stated; the alkalinity
+will equal the hardness after the water goes flat. 
+</p>
+
+<p>For do it yourself water testing, there are water test kits.
+The most accurate are to be found in aquarium supply stores, and
+require counting the number of drops of reagent to get a color change
+in the water sample. The color change happens when the sample reaches
+a preset pH level, the number of drops it takes measures the amount of
+buffering minerals present. They are sometimes called "titration to
+endpoint" tests.  
+</p>
+
+<p>The best buy I've found of this type are made by Aquarium
+Pharmaceuticals. Each one has about a fifty to a hundred hardness and
+alkalinity test per $6 kit (exact number depends on how hard the
+tested water is), and they have a complete line of other tests.
+They're available at <a href="/web/20080526072324/http://www.petsmart.com/fish/shopping/water_test_kits/">PetSmart.</a>
+</p>
+<div class="box"><strong>Editors note: </strong>
+It appears that PetSmart no longer carries this particular Aquarium 
+Pharmaceuticals product, but googling "Aquarium Pharmaceuticals Freshwater 
+GH &amp; KH Test Kit" produces dozens of hits.  
+<a href="/web/20080526072324/http://209.15.53.70/techsheet.asp?product_id=125">Here's a detailed
+data sheet on the kit.</a>
+</div>
+<p>The tests use a
+simplified (no separate color changing dye needed) titration to
+endpoint system, and each drop measures one DH, or 17.9 mg/l, a
+resolution eminently satisfactory for coffee water testing. Moreover,
+the tests' resolutiom can be adjusted by using different water
+volumes. Doing these tests are cumbersome, since the test tube has to
+be stoppered and shaken after each drop of reagent is added.
+</p>
+
+<p>Paper test strips are much easier; all the tests are on one
+strip, which is dipped into the water and compared to a color chart.
+They work similarly to the pH color strips one finds in highschool
+chemistry labs. Unfortunately, the only one I found with the correct
+resolution didn't work (3 separate lots, none worked), so avoid test
+strips from Continental Hydrodyne Systems. The strips made by
+Aquacheck and Jungle Labs work well, but the steps of are too coarse.
+Basically, these tests will get you no better than an estimate within
+50 mg/l hardness or alkalinity. That's OK for spot checks, but not
+accurate enough for a fine tuned water treatment. 
+</p>
+</li>
+<li>
+<h4>More on Alkalinity and Simplified Calculations</h4>
+
+<p>There are two items that need to be noted prior to doing
+calculations from published or test data. 
+</p>
+
+<p>Most tests measure hardness and alkalinity. They do not
+measure total dissolved solids (this requires a conductivity test).
+But, since calcium, magnesium, and carbonates form the preponderance
+of dissolved solids in most natural drinking water, and since total
+dissolved solids plays only a small role in the calculations, the
+higher of the hardness or alkalinity measures (in CaCO3 equivalent
+units) can serve as the total dissolved solids measure with only a
+minimal loss of accuracy (The LI will come out about 0.1 to 0.2 too
+high for water with lots of other minerals). 
+</p>
+
+<p>Second, acidity in natural water comes from dissolved CO2
+(fizz), which can vary quickly. A recent improvement on the Langelier
+index, called the Puckorius index, replaces the water's current pH
+with its equilibrium pH (pHeq), which derives from the alkalinity
+value. When water is exposed to air or heated, this works better as a
+long term pH estimate than any current pH reading. The formula is:
+</p>
+
+<div class="box" style="text-align:center">
+pHeq = 1.465*log(A) + 4.54
+</div>
+
+<p>The following table shows the alkalinity value that is equivalent to
+the medium pH levels in drinking water:
+</p>
+
+<table>
+<caption>Equilibrium Water pH vs Bicarbonate Alkalinity in mg/L CaCo3</caption>
+	<tbody><tr>
+		<th>pHeq</th>
+		<td>6.0</td>
+		<td>6.2</td>
+		<td>6.4</td>
+		<td>6.6</td>
+		<td>6.8</td>
+		<td>7.0</td>
+		<td>7.2</td>
+		<td>7.4</td>
+		<td>7.6</td>
+		<td>7.8</td>
+		<td>8.0</td>
+	</tr>
+	<tr>
+		<th>Alkalinity</th>
+		<td>10</td>
+		<td>14</td>
+		<td>19</td>
+		<td>26</td>
+		<td>35</td>
+		<td>48</td>
+		<td>65</td>
+		<td>90</td>
+		<td>123</td>
+		<td>168</td>
+		<td>230</td>
+	</tr>
+</tbody></table>
+
+
+<p>By using these facts, one gets the following simplified, state
+of the art, Langelier index formula (LI*) that requires only
+temperature (T), hardness (H), and alkalinity (A):
+</p>
+
+<div class="box" style="text-align:center">
+LI* = 13.12*log(T +273) +log(H) +2.465*log(A) -log(max(A,H))/10 -39.61
+</div>
+
+<p>Note that alkalinity has about 2 1/2 times the effect on the
+LI as hardness, since changes to it effects both the water pH and the
+calcium carbonate saturation. Regretably, most water information is
+misleading on this, since only hardness values are discussed.
+</p>
+</li>
+<li>
+<h4>Calculating Acceptable Hardness at Various Temperatures</h4>
+
+<p>As one can see from the LI formula, rising temperature raises
+the LI and the scaling potential. So it's useful to determine the
+maximum hardness and alkalinity levels that don't cause scaling for a
+given operating temperature. This requires solution of the following
+rewriten LI* equation:
+</p>
+
+<div class="box" style="text-align:center">
+Max Hardness Allowed = Alog{44.01 - 14.58*log(T+273) - 2.739*log(A)}<br>
+or at higher alk.      Alog{39.61 - 13.12*log(T+273) - 2.365*log(A)}
+</div>
+
+<p>The following table gives some results for espresso boiler
+temperatures (115C - 130C) and coffee brewing temperatures (90C -
+95C):
+</p>
+
+<table>
+	<caption>
+	Maximum Non-Scaling Hardness by 
+	Temperature and Alkalinity
+	</caption>
+	<tbody><tr> 
+		<th style="border-right:none">&nbsp;</th>
+		<th style="border-left:none">&nbsp;</th>
+		<th colspan="12">Alkalinity</th>
+	</tr>
+	<tr> 
+		<th style="border-right:1px solid brown;border-bottom:1px solid brown"> 
+			°C</th>
+		<th style="border-right:1px solid brown;border-bottom:1px solid brown"> 
+			Bar</th>
+		<th>33</th>
+		<th>37</th>
+		<th>40</th>
+		<th>43</th>
+		<th>47</th>
+		<th>50</th>
+		<th>53</th>
+		<th>57</th>
+		<th>60</th>
+		<th>63</th>
+		<th>67</th>
+		<th>70</th>
+	</tr>
+	<tr> 
+		<th style="border-right:1px solid brown">90</th>
+		<th style="border-right:1px solid brown">--</th>
+		<td>342</td>
+		<td>250</td>
+		<td>202</td>
+		<td>166</td>
+		<td>130</td>
+		<td>110</td>
+		<td>93</td>
+		<td>77</td>
+		<td>67</td>
+		<td>59</td>
+		<td>51</td>
+		<td>46</td>
+	</tr>
+	<tr> 
+		<th style="border-right:1px solid brown">95</th>
+		<th style="border-right:1px solid brown">--</th>
+		<td>280</td>
+		<td>205</td>
+		<td>166</td>
+		<td>136</td>
+		<td>106</td>
+		<td>90</td>
+		<td>77</td>
+		<td>63</td>
+		<td>55</td>
+		<td>49</td>
+		<td>42</td>
+		<td>38</td>
+	</tr>
+	<tr> 
+		<th style="border-right:1px solid brown">115</th>
+		<th style="border-right:1px solid brown">0.67</th>
+		<td>130</td>
+		<td>95</td>
+		<td>77</td>
+		<td>63</td>
+		<td>49</td>
+		<td>42</td>
+		<td>37</td>
+		<td>31</td>
+		<td>27</td>
+		<td>24</td>
+		<td>21</td>
+		<td>19</td>
+	</tr>
+	<tr> 
+		<th style="border-right:1px solid brown">120</th>
+		<th style="border-right:1px solid brown">1.00</th>
+		<td>108</td>
+		<td>79</td>
+		<td>63</td>
+		<td>52</td>
+		<td>41</td>
+		<td>36</td>
+		<td>31</td>
+		<td>26</td>
+		<td>23</td>
+		<td>21</td>
+		<td>18</td>
+		<td>16</td>
+	</tr>
+	<tr> 
+		<th style="border-right:1px solid brown">125</th>
+		<th style="border-right:1px solid brown">1.33</th>
+		<td>89</td>
+		<td>65</td>
+		<td>53</td>
+		<td>43</td>
+		<td>35</td>
+		<td>30</td>
+		<td>26</td>
+		<td>22</td>
+		<td>20</td>
+		<td>18</td>
+		<td>15</td>
+		<td>14</td>
+	</tr>
+	<tr> 
+		<th style="border-right:1px solid brown">130</th>
+		<th style="border-right:1px solid brown">1.67</th>
+		<td>75</td>
+		<td>55</td>
+		<td>44</td>
+		<td>37</td>
+		<td>30</td>
+		<td>26</td>
+		<td>22</td>
+		<td>19</td>
+		<td>17</td>
+		<td>15</td>
+		<td>13</td>
+		<td>12</td>
+	</tr>
+</tbody></table>
+
+<p>The Bar column gives the approximate boiler pressure that
+equates to the stated temperature.
+</p>
+
+<p>This table amplifies the standard recommendations of 90mg/l
+hardness at brewing temperature and 50mg/l at boiler temperature. A
+slightly better rule of thumb, whenever the hardness and alkalalinity
+are roughly at the same magnitude, is to add the two together: then
+coffee temperature water should not exceed 130 total, boiler water 80
+total.
+</p>
+</li>
+<li>
+<h4>Estimating Scale Deposition Rates</h4>
+
+<p>When calcium/magnesium carbonate precipitates out as scale, it
+lowers the alkalinity and hardness measures by equal amounts (in the
+CaCO3 equivalent units being used) until the LI drops to zero. At this
+point, scaling stops until more hard water is introduced. 
+</p>
+
+<p>The calculation doesn't have a closed form solution. If you
+have a programming language, write an iterative subroutine to solve
+this equation for x, the milligram amount of scale per liter
+throughput, for any H, A, &amp; T you want:
+</p>
+
+<div class="box" style="text-align:center">
+0.9*log(H - x) + 2.465*log(A - x) = 39.61 - 13.12*log(T + 273) <br>
+or  log(H - x) + 2.365*log(A - x) = 39.61 - 13.12*log(T + 273) 
+</div>
+
+<p>Barring that, I've included two scaling tables: </p>
+
+<table border="1px solid brown" width="75%" style="border-collapse:collapse">
+<caption>Milligrams Scale at 95°C Per Liter Throughput</caption>
+	<tbody><tr> 
+		<th>&nbsp;</th>
+		<th colspan="12">Alkalinity</th>
+	</tr>
+	<tr>
+		<th>Hardness</th>
+		<th>25</th>
+		<th>50</th>
+		<th>75</th>
+		<th>100</th>
+		<th>125</th>
+		<th>150</th>
+		<th>175</th>
+		<th>200</th>
+		<th>225</th>
+		<th>250</th>
+		<th>275</th>
+		<th>300</th>
+	</tr>
+	<tr>
+		<th>25</th>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>6</td>
+		<td>13</td>
+		<td>17</td>
+		<td>20</td>
+		<td>21</td>
+		<td>22</td>
+		<td>23</td>
+		<td>24</td>
+		<td>24</td>
+	</tr>
+	<tr id="odd">
+		<th>50</th>
+		<td>0</td>
+		<td>0</td>
+		<td>8</td>
+		<td>22</td>
+		<td>31</td>
+		<td>38</td>
+		<td>42</td>
+		<td>45</td>
+		<td>46</td>
+		<td>47</td>
+		<td>48</td>
+		<td>49</td>
+	</tr>
+	<tr>
+		<th>75</th>
+		<td>0</td>
+		<td>0</td>
+		<td>17</td>
+		<td>33</td>
+		<td>47</td>
+		<td>56</td>
+		<td>63</td>
+		<td>67</td>
+		<td>70</td>
+		<td>71</td>
+		<td>72</td>
+		<td>73</td>
+	</tr>
+	<tr id="odd">
+		<th>100</th>
+		<td>0</td>
+		<td>2</td>
+		<td>23</td>
+		<td>42</td>
+		<td>58</td>
+		<td>72</td>
+		<td>81</td>
+		<td>88</td>
+		<td>92</td>
+		<td>95</td>
+		<td>96</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<th>125</th>
+		<td>0</td>
+		<td>6</td>
+		<td>27</td>
+		<td>48</td>
+		<td>67</td>
+		<td>83</td>
+		<td>97</td>
+		<td>106</td>
+		<td>113</td>
+		<td>117</td>
+		<td>120</td>
+		<td>121</td>
+	</tr>
+	<tr id="odd">
+		<th>150</th>
+		<td>0</td>
+		<td>8</td>
+		<td>31</td>
+		<td>52</td>
+		<td>73</td>
+		<td>92</td>
+		<td>108</td>
+		<td>122</td>
+		<td>131</td>
+		<td>138</td>
+		<td>142</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<th>175</th>
+		<td>0</td>
+		<td>10</td>
+		<td>33</td>
+		<td>56</td>
+		<td>77</td>
+		<td>98</td>
+		<td>117</td>
+		<td>133</td>
+		<td>147</td>
+		<td>156</td>
+		<td>163</td>
+		<td>167</td>
+	</tr>
+	<tr id="odd">
+		<th>200</th>
+		<td>0</td>
+		<td>12</td>
+		<td>35</td>
+		<td>58</td>
+		<td>81</td>
+		<td>102</td>
+		<td>123</td>
+		<td>142</td>
+		<td>158</td>
+		<td>172</td>
+		<td>181</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<th>225</th>
+		<td>0</td>
+		<td>14</td>
+		<td>37</td>
+		<td>60</td>
+		<td>83</td>
+		<td>106</td>
+		<td>127</td>
+		<td>148</td>
+		<td>167</td>
+		<td>183</td>
+		<td>197</td>
+		<td>206</td>
+	</tr>
+	<tr id="odd">
+		<th>250</th>
+		<td>0</td>
+		<td>15</td>
+		<td>39</td>
+		<td>62</td>
+		<td>85</td>
+		<td>108</td>
+		<td>131</td>
+		<td>152</td>
+		<td>173</td>
+		<td>192</td>
+		<td>208</td>
+		<td>222</td>
+	</tr>
+	<tr>
+		<th>275</th>
+		<td>0</td>
+		<td>17</td>
+		<td>40</td>
+		<td>64</td>
+		<td>87</td>
+		<td>110</td>
+		<td>133</td>
+		<td>156</td>
+		<td>177</td>
+		<td>198</td>
+		<td>217</td>
+		<td>233</td>
+	</tr>
+	<tr id="odd">
+		<th>300</th>
+		<td>0</td>
+		<td>18</td>
+		<td>42</td>
+		<td>65</td>
+		<td>89</td>
+		<td>112</td>
+		<td>135</td>
+		<td>158</td>
+		<td>181</td>
+		<td>202</td>
+		<td>223</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<th>325</th>
+		<td>0</td>
+		<td>19</td>
+		<td>43</td>
+		<td>67</td>
+		<td>90</td>
+		<td>114</td>
+		<td>137</td>
+		<td>160</td>
+		<td>183</td>
+		<td>206</td>
+		<td>227</td>
+		<td>248</td>
+	</tr>
+	<tr id="odd">
+		<th>350</th>
+		<td>0</td>
+		<td>19</td>
+		<td>44</td>
+		<td>68</td>
+		<td>92</td>
+		<td>115</td>
+		<td>139</td>
+		<td>162</td>
+		<td>185</td>
+		<td>208</td>
+		<td>231</td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<th>375</th>
+		<td>0</td>
+		<td>20</td>
+		<td>44</td>
+		<td>69</td>
+		<td>93</td>
+		<td>117</td>
+		<td>140</td>
+		<td>164</td>
+		<td>187</td>
+		<td>210</td>
+		<td>233</td>
+		<td>256</td>
+	</tr>
+	<tr id="odd">
+		<th>400</th>
+		<td>0</td>
+		<td>21</td>
+		<td>45</td>
+		<td>69</td>
+		<td>94</td>
+		<td>118</td>
+		<td>142</td>
+		<td>165</td>
+		<td>189</td>
+		<td>212</td>
+		<td>235</td>
+		<td>258</td>
+	</tr>
+	<tr>
+		<th>425</th>
+		<td>0</td>
+		<td>22</td>
+		<td>46</td>
+		<td>70</td>
+		<td>94</td>
+		<td>119</td>
+		<td>143</td>
+		<td>167</td>
+		<td>190</td>
+		<td>214</td>
+		<td>237</td>
+		<td>260</td>
+	</tr>
+	<tr id="odd">
+		<th>450</th>
+		<td>0</td>
+		<td>22</td>
+		<td>47</td>
+		<td>71</td>
+		<td>95</td>
+		<td>119</td>
+		<td>144</td>
+		<td>168</td>
+		<td>192</td>
+		<td>215</td>
+		<td>239</td>
+		<td>262</td>
+	</tr>
+	<tr>
+		<th>475</th>
+		<td>0</td>
+		<td>23</td>
+		<td>47</td>
+		<td>72</td>
+		<td>96</td>
+		<td>120</td>
+		<td>144</td>
+		<td>169</td>
+		<td>193</td>
+		<td>217</td>
+		<td>240</td>
+		<td>264</td>
+	</tr>
+	<tr id="odd">
+		<th>500</th>
+		<td>0</td>
+		<td>23</td>
+		<td>48</td>
+		<td>72</td>
+		<td>97</td>
+		<td>121</td>
+		<td>145</td>
+		<td>169</td>
+		<td>194</td>
+		<td>218</td>
+		<td>242</td>
+		<td>265</td>
+	</tr>
+</tbody></table>
+<p>&nbsp;</p>
+<table border="1px solid brown" width="75%" style="border-collapse:collapse">
+<caption>Milligrams Scale at 125°C Per Liter Throughput</caption>
+	<tbody><tr> 
+		<th>&nbsp;</th>
+		<th colspan="12">Alkalinity</th>
+	</tr>
+	<tr>
+		<th>Hardness</th>
+		<th>25</th>
+		<th>50</th>
+		<th>75</th>
+		<th>100</th>
+		<th>125</th>
+		<th>150</th>
+		<th>175</th>
+		<th>200</th>
+		<th>225</th>
+		<th>250</th>
+		<th>275</th>
+		<th>300 </th>
+	</tr>
+	<tr>
+		<th>25</th>
+		<td>0</td>
+		<td>0</td>
+		<td>10</td>
+		<td>17</td>
+		<td>20</td>
+		<td>22</td>
+		<td>23</td>
+		<td>24</td>
+		<td>24</td>
+		<td>25</td>
+		<td>25</td>
+		<td>25</td>
+	</tr>
+	<tr id="odd">
+		<th>50</th>
+		<td>0</td>
+		<td>7</td>
+		<td>23</td>
+		<td>35</td>
+		<td>42</td>
+		<td>45</td>
+		<td>47</td>
+		<td>48</td>
+		<td>49</td>
+		<td>49</td>
+		<td>50</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<th>75</th>
+		<td>0</td>
+		<td>13</td>
+		<td>32</td>
+		<td>48</td>
+		<td>60</td>
+		<td>67</td>
+		<td>70</td>
+		<td>72</td>
+		<td>73</td>
+		<td>74</td>
+		<td>74</td>
+		<td>75</td>
+	</tr>
+	<tr id="odd">
+		<th>100</th>
+		<td>0</td>
+		<td>17</td>
+		<td>38</td>
+		<td>57</td>
+		<td>73</td>
+		<td>85</td>
+		<td>92</td>
+		<td>95</td>
+		<td>97</td>
+		<td>98</td>
+		<td>99</td>
+		<td>99</td>
+	</tr>
+	<tr>
+		<th>125</th>
+		<td>0</td>
+		<td>19</td>
+		<td>42</td>
+		<td>63</td>
+		<td>82</td>
+		<td>98</td>
+		<td>110</td>
+		<td>117</td>
+		<td>120</td>
+		<td>122</td>
+		<td>123</td>
+		<td>124</td>
+	</tr>
+	<tr id="odd">
+		<th>150</th>
+		<td>0</td>
+		<td>22</td>
+		<td>44</td>
+		<td>67</td>
+		<td>88</td>
+		<td>107</td>
+		<td>123</td>
+		<td>135</td>
+		<td>142</td>
+		<td>145</td>
+		<td>147</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<th>175</th>
+		<td>0</td>
+		<td>23</td>
+		<td>47</td>
+		<td>69</td>
+		<td>92</td>
+		<td>113</td>
+		<td>132</td>
+		<td>148</td>
+		<td>160</td>
+		<td>167</td>
+		<td>170</td>
+		<td>172</td>
+	</tr>
+	<tr id="odd">
+		<th>200</th>
+		<td>1</td>
+		<td>25</td>
+		<td>48</td>
+		<td>72</td>
+		<td>94</td>
+		<td>117</td>
+		<td>138</td>
+		<td>157</td>
+		<td>173</td>
+		<td>185</td>
+		<td>192</td>
+		<td>195</td>
+	</tr>
+	<tr>
+		<th>225</th>
+		<td>2</td>
+		<td>26</td>
+		<td>50</td>
+		<td>73</td>
+		<td>97</td>
+		<td>119</td>
+		<td>142</td>
+		<td>163</td>
+		<td>182</td>
+		<td>198</td>
+		<td>210</td>
+		<td>217</td>
+	</tr>
+	<tr id="odd">
+		<th>250</th>
+		<td>3</td>
+		<td>27</td>
+		<td>51</td>
+		<td>75</td>
+		<td>98</td>
+		<td>122</td>
+		<td>144</td>
+		<td>167</td>
+		<td>188</td>
+		<td>207</td>
+		<td>223</td>
+		<td>235</td>
+	</tr>
+	<tr>
+		<th>275</th>
+		<td>4</td>
+		<td>28</td>
+		<td>52</td>
+		<td>76</td>
+		<td>100</td>
+		<td>123</td>
+		<td>147</td>
+		<td>169</td>
+		<td>192</td>
+		<td>213</td>
+		<td>232</td>
+		<td>248</td>
+	</tr>
+	<tr id="odd">
+		<th>300</th>
+		<td>4</td>
+		<td>29</td>
+		<td>53</td>
+		<td>77</td>
+		<td>101</td>
+		<td>125</td>
+		<td>148</td>
+		<td>172</td>
+		<td>194</td>
+		<td>217</td>
+		<td>238</td>
+		<td>257</td>
+	</tr>
+	<tr>
+		<th>325</th>
+		<td>5</td>
+		<td>29</td>
+		<td>54</td>
+		<td>78</td>
+		<td>102</td>
+		<td>126</td>
+		<td>150</td>
+		<td>173</td>
+		<td>197</td>
+		<td>219</td>
+		<td>242</td>
+		<td>263</td>
+	</tr>
+	<tr id="odd">
+		<th>350</th>
+		<td>5</td>
+		<td>30</td>
+		<td>54</td>
+		<td>79</td>
+		<td>103</td>
+		<td>127</td>
+		<td>151</td>
+		<td>175</td>
+		<td>198</td>
+		<td>222</td>
+		<td>244</td>
+		<td>267</td>
+	</tr>
+	<tr>
+		<th>375</th>
+		<td>6</td>
+		<td>30</td>
+		<td>55</td>
+		<td>79</td>
+		<td>104</td>
+		<td>128</td>
+		<td>152</td>
+		<td>176</td>
+		<td>200</td>
+		<td>223</td>
+		<td>247</td>
+		<td>269</td>
+	</tr>
+	<tr id="odd">
+		<th>400</th>
+		<td>6</td>
+		<td>31</td>
+		<td>55</td>
+		<td>80</td>
+		<td>104</td>
+		<td>129</td>
+		<td>153</td>
+		<td>177</td>
+		<td>201</td>
+		<td>225</td>
+		<td>248</td>
+		<td>272</td>
+	</tr>
+	<tr>
+		<th>425</th>
+		<td>7</td>
+		<td>31</td>
+		<td>56</td>
+		<td>80</td>
+		<td>105</td>
+		<td>129</td>
+		<td>154</td>
+		<td>178</td>
+		<td>202</td>
+		<td>226</td>
+		<td>250</td>
+		<td>273</td>
+	</tr>
+	<tr id="odd">
+		<th>450</th>
+		<td>7</td>
+		<td>32</td>
+		<td>56</td>
+		<td>81</td>
+		<td>105</td>
+		<td>130</td>
+		<td>154</td>
+		<td>179</td>
+		<td>203</td>
+		<td>227</td>
+		<td>251</td>
+		<td>275</td>
+	</tr>
+	<tr>
+		<th>475</th>
+		<td>7</td>
+		<td>32</td>
+		<td>57</td>
+		<td>81</td>
+		<td>106</td>
+		<td>130</td>
+		<td>155</td>
+		<td>179</td>
+		<td>204</td>
+		<td>228</td>
+		<td>252</td>
+		<td>276</td>
+	</tr>
+	<tr id="odd">
+		<th>500</th>
+		<td>8</td>
+		<td>32</td>
+		<td>57</td>
+		<td>82</td>
+		<td>106</td>
+		<td>131</td>
+		<td>155</td>
+		<td>180</td>
+		<td>204</td>
+		<td>229</td>
+		<td>253</td>
+		<td>277</td>
+	</tr>
+</tbody></table>
+
+<div class="box">
+Notes on the tables:
+<ol>
+<li>To obtain the composition of the water remaining in the
+boiler, subtract the amount of scale from both the hardness and
+alkalinity column</li>
+<li>Results for 120C and 130C differ from the 125C table by 1
+or 2 mg/l scale less or more respectively. Similarly for the 90C and
+100C tables to the 95C one.</li>
+<li>The 125C table applies only to cases when liquid water is
+being extracted from the boiler. When steam is extracted, all minerals
+are left behind. So, the entire lower value of the hardness or
+alkalinity deposits as scale if the boiler water is fully saturated
+with an LI of 0 or higher. </li>
+<li>If boiler water is not saturated, the hardness and
+alkalinity values rise in proportion to the proportion of steam
+extracted tempered by the values of the feedwater replacing the lost
+steam. Barring any water extraction, the hardness levels will
+eventually climb to saturation. Therefore, even if the feedwater is
+below the boiler's saturation point, scaling may still occur if a high
+proportion of use is as steam.
+<br>Actual mineral concentrations in the boiler, if saturation
+isn't reached, depend on the ratio of steam to water extraction and is
+as follows:<br>
+
+<p align="center">Boiler Concentration = Feedwater Concentration/(1 - Steam Ratio)</p>
+
+No scaling occurs only if the boiler concentrations of
+alkalinity and hardness yield a negative LI. Therefore boilers used
+only or primarily for steaming must be flushed (blown down) regularly,
+with the schedule depending on the mineral concentration of the
+feedwater and the volume of steam use. Water treatments must be chosen
+with these factors in mind.
+</li>
+</ol>
+</div>
+</li>
+<p>&nbsp;</p>
+<li>
+<h4>Estimating Scaling Rates in Espresso Machines</h4>
+
+<p>
+When a given lot of water has dropped enough scale to lower
+its LI to zero, it doesn't scale any more. So scaling is not dependent
+on how long an espresso machine is on or how much water it holds; it
+depends solely on how much water goes through it (this is a slightly
+conservative approximation, since the water may not completely descale
+if it's at maximum temperature for only a short time).
+</p>
+<p>So the scaling tables given above can be used to estimate the
+amount of scale that your espresso machine is accumulating. The only
+thing required is an estimate of the number of liters of water heated
+to coffee and steaming temperatures going through your machine.
+Multiply this figure with the amount of scale given for your water's
+hardness and alkalinity, and you have the scale estimate.
+</p>
+<p>In order to aid in this calculation, I have included a water
+volume table for different types of drinks, as well as some examples.
+</p>
+<table>
+<caption>Liters per Month for One Drink per Day</caption>
+<tbody><tr id="odd">
+	<th>Drink</th><td>Espr+0</td><td>Espr+2</td><td>Espr+4</td><td>Espr+6</td><td>1CapSteam</td><td>Americano </td>
+</tr>
+<tr>
+	<th>Liters</th><td>1.80</td><td>3.60</td><td>5.40</td><td>7.20</td><td>0.61</td><td>3.60</td>
+</tr>
+</tbody></table>
+<h4>Some explanations</h4>
+<p>The espresso + 2,4,6 refers to running ounces of water prior
+to pulling the shot: on single boiler machines, to temperature surf;
+on HX machines, to cool down the water or temper the head after idle
+time. Use the figures appropriate to your practice. Commercial
+estimates require knowing how often the baristas run water.
+</p>
+<p>Sometimes espresso volumes go against the 125C table. On a
+home machine cappa, the entire amount used for the espresso is
+replaced in the boiler, then heated to steam temperature, thus the
+usage creates 125C level scaling. If the boiler is never set to steam,
+the 95C table should be used. On an HX machine, HX water used after
+idling is at 125C; whereas "follow on" shots during high traffic are
+at 95C. 
+</p>
+<p>Americanos pulled from water temp home boilers go to the 95C
+table, those pulled directly from a steam boiler go to the 125C table.
+Those made via a 2nd HX system go to the 125C table if there's been
+idle time, otherwise to the 95C table. The Americano amount given is
+additional to the espresso total.
+</p>
+<p>If water scales at all at boiler temperature, the cappa
+steaming volumes should be calculated at the lower of the water's
+hardness or alkalinity figure, rather than the 125C figure, since all
+minerals from the steamed water remain behind and scale out.
+</p>
+
+<style type="text/css">
+table { border-style:collapse; width:65% }
+td { border:none;text-align:right;padding-right:5px }
+</style>
+
+<h4>Some Examples</h4>
+<ol>
+<li>
+A Sylvia running 175 hardness, 125 alkalinity water is used
+for 1 cappa, 1 americano, and 3 espressos daily. The temperature surf
+is 4 ounces.
+<table>
+<tbody><tr>
+	<td>The cappa shot is on the 125C table:&nbsp;</td>
+	<td>5.40&nbsp;</td>
+	<td>×</td>
+	<td>92</td>
+	<td>&nbsp;÷&nbsp;</td>
+	<td>1000</td>
+	<td>&nbsp;=&nbsp;</td>
+	<td>0.50</td>
+</tr><tr id="odd"> 
+	<td>The three espressos on the 95C one:&nbsp;</td>
+	<td>16.2&nbsp;</td>
+	<td>×</td>
+	<td>77</td>
+	<td>&nbsp;÷&nbsp;</td>
+	<td>1000</td>
+	<td>&nbsp;=&nbsp;</td>
+	<td>1.25</td>
+</tr>
+<tr>
+	<td>The americano also on the 95C one:&nbsp;</td>
+	<td>3.60&nbsp;</td>
+	<td>×</td>
+	<td>77</td>
+	<td>&nbsp;÷&nbsp;</td>
+	<td>1000</td>
+	<td>&nbsp;=&nbsp;</td>
+	<td>0.28</td>
+</tr>
+<tr id="odd">
+	<td>The steam use drops 125 mg:&nbsp;</td>
+	<td>0.61&nbsp;</td>
+	<td>×</td>
+	<td>125</td>
+	<td>&nbsp;÷&nbsp;</td>
+	<td>1000</td>
+	<td>&nbsp;=&nbsp;</td>
+	<td>0.08</td>
+</tr>
+<tr>
+	<td colspan="8">Total = 2.11 grams per month</td>
+</tr>
+</tbody></table>
+</li>
+<p>&nbsp;</p>
+<li>
+<p>
+A coffee shop dual heat exchanger machine running 100
+hardness, 50 alkalinity water (perfect coffee water) is used for 20
+espressos, 400 milk drinks, and 80 Americanos per day. About 100
+drinks are made after idle times and require 4 ounce HX flushes, the
+rest are "follow on" shots without HX flushes. All the Americanos are
+made with pauses in between.</p>
+<table>
+<tbody><tr>
+<td>Boiler scale:</td><td>400 drinks</td><td>*</td><td>0.61 liters</td><td>*</td><td>50 mg</td><td>=</td><td>12.2 grams/month</td>
+</tr>
+<tr id="odd">
+<td>Water HX scale:</td><td>80 drinks</td><td>*</td><td>3.60 liters</td><td>*</td><td>17 mg</td><td>=</td><td>4.9 grams/month</td>
+</tr>
+<tr>
+<td>EsprHX scale:</td><td>100 idlers</td><td>*</td><td>5.40 liters</td><td>*</td><td>17 mg</td><td>=</td><td>9.2 grams/month</td>
+</tr>
+<tr id="odd">
+<td>Espr HX scale:</td><td>400 follows</td><td>*</td><td>1.80 liters</td><td>*</td><td>2 mg</td><td>=</td><td>1.4 grams/month</td>
+</tr>
+</tbody></table>
+</li>
+</ol>
+</li>
+<p>&nbsp;</p>
+<li>
+<h4>Corrosion and Water Hardness</h4>
+<p>When corrosion is a danger in hot water systems, as with
+Gaggia home machine boilers, it is accelerated by acidic water and
+heat, and retarded by a layering of limescale. Thus, the standard
+recommendation is using water with an alkalinity high enough to ensure
+the water never becomes acidic, i.e. 48 mg/l or higher, and enough
+hardness to keep the Langelier Index above -0.5. At room temperature,
+an LI of greater than -0.5 translates to an alkalinity above 75 mg/l
+and a hardness above 150 mg/l. 
+</p>
+<p>The LI recommendation is somewhat contested for two reasons.
+First, limescale layers only protect when they form a complete
+coating. Second, in heated systems, the LI stays high when the system
+is hot, and only drops to critical levels when the water is cold.
+Since both lime formation and corrosion are slowed in cold water, the
+benefit of a high cold water LI isn't all that great. However, keeping
+the alkalinity above 48 mg/l is seen as a must by all experts.
+</p>
+<p>The value of high alkalinity for corrosion protection, along
+with the lesser value of scale, leads to a surprising conclusion:
+hardness can worsen corrosion in hot water systems. When the heated
+water drops scale, it loses alkalinity as well and can become
+corrosive. This observation accounts for the frequent occurrence of
+both scale and corrosion in Gaggia boilers. But if the bicarbonate
+alkalinity is mainly coupled to sodium and potassium, it won't scale,
+and will remain in the water even when heated. This means that water
+with higher bicarbonate alkalinity, and lower calcium/magnesium
+hardness is best for protecting hot water systems from corrosion.
+</p>
+</li>
+</ol>
+
+</li><li>
+<h3>Water Treatments</h3>
+
+<p>If the local tap water is unsuitable, and bottled waters too
+expensive, a third alternative is to treat the water yourself. The
+following options are available.
+</p> 
+<ol>
+<li>
+<h4>Charcoal Filtering</h4>
+<p>Charcoal removes chlorines, odors, colors, and cloudiness, but
+does not affect the water's mineral content. It is an excellent idea
+for poor quality water, when chlorinated water is drunk directly
+without heating it or letting it stand, or when chloramine instead of
+free chlorine is used for disinfection. Charcoal filters are fairly
+low maintenance, needing only occasional cartridge swaps. Brita, Pur
+and Culligen cartridges always include charcoal filters. Most
+installed treatment systems also have one, as well as one or more of
+the following items.
+</p>
+</li> 
+<li>
+<h4>Mineral Introduction</h4>
+<p>When water is deficient in some key mineral for it's intended
+purpose, minerals are added by running it through a bed of salts.
+Usually these beds contain sodium, calcium or magnesium bicarbonates
+or sulphates; but the exact composition varies by purpose. High
+quality water treatment systems have mineral cartridges downstream of
+reverse osmosis units
+</p></li>
+<li>
+<h4>Distillation and Reverse Osmosis</h4>
+<p>
+Distillation removes all water impurities, good or bad.
+Nowadays, one can buy 1 liter per hour countertop distrillers, but
+otherwise the much more efficient reverse osmosis process is used. In
+reverse osmosis, some water is forced through a membrane impermiable
+to minerals which are washed away by the proportion of water not
+passing the membrane. RO should produce virtually pure water (below 1
+mg/l total solids); however, mineral removal is compromised when the
+amount of waste water is reduced. For instance, supermarket RO
+vendomats in very hard water areas may put out as much as 50 mg/l
+hardness and alkalinity levels. Home reverse osmosis systems are
+generally self-cleaning, but need to be installed and set up by
+specialists. They are more expensive to buy and operate than ion
+exchange softeners (see below).</p>
+</li>
+
+<li>
+<h4>Ion Exchange Softening</h4>
+<p>Ion exchange runs the water through a polystyrene resin or
+xeolite bed saturated with sodium and/or potassium chloride. The resin
+bed is usually cationic, that is, formulated so that highly solvent
+univalent cations (sodium or potassium) replace the less solvent
+multivalent ones in the water (calcium, magnesium, iron, lead and
+other heavy metals). This version reduces hardness without reducing
+alkalinity. Alternatively, an anion resin will replace the bivalent
+bicarbonates with more soluble univalent hydroxide, chloride or
+sulphate ions. This version reduces alkalinity without reducing
+hardness or heavy metals. Dual systems that produce completely
+softened water are also available.
+</p>
+<p>The amounts of sodium or potassium introduced by cation
+softeners are below the taste threshold, and are not a health factor
+at coffee consumption levels. For each 100 mg/l CaCO3 hardness
+removed, 46 mg/l sodium or 78 mg/l potassium are added. However,
+sodium restricted heart patients are sometimes advised not to use
+sodium exchangers for drinking water. In no case should cation ion
+exchange water be used to water plants, since sodium and potassium
+accumulate in soil.
+</p>
+<p>Plumbed in, self recharging ion exchange systems generally
+reduce hardness (and/or alkalinity) to below 20 mg/l. They are cheaper
+than RO systems of the same capacity and require less maintenance. To
+get the same performance from pourover espresso machine hose units,
+the filters have to be recharged regularly.
+</p>
+<p>Both Brita and Pur jug filters have ion exchangers designed to
+eliminate heavy metals, but which also remove some hardness as a side
+effect. They are of a non-rechargeable variety that add hydrogen,
+rather than sodium, to the water. The water emerges slightly and
+temporarily acidic. The Claris filters in Jura/Capresso machines
+apparently also work this way. They do not completely remove hardness,
+rather reduce it by 33% to 67%, depending on the age of the filter.
+Neither company's water tap filters use ion exchange, instead relying
+on a catalyst layer to remove heavy metals. They have no effect on
+hardness.
+</p>
+<p>It proved impossible to get accurate information on
+performance of either the Brita or the (generic?) hose end softener
+sold with Sylvias. So I decided to do my own testing. Here are the
+results:
+</p>
+<p><strong>Brita Jug Filter</strong><br>
+I tested the filter new, and after 3
+weeks, or 75 liters use (about half the recommended cartridge life) on
+150mg/l hardness, 100 mg/l alkalinity water. As expected, the filter
+left the alkalinity unaffected. Only about 2/3 of the hardness was
+removed when the filter was a few days old, and its performance
+dropped to 1/3 removal after three weeks. This probably is due to it
+being designed to remove heavy metals, rather than calcium. The NSA's
+refusal to allow Brita to advertise in the U.S. as a water softener is
+therefore not just bureaucratic gobbledygook, but justified by the
+facts. I have not tested the Pur jug filter or the Claris system; the
+identical design principal probably results in similar performance.
+</p>
+<p><strong>Rancillio Sylvia Softener</strong><br>
+This is the small softener
+sold along with the Sylvia that fits on the intake hose end. The
+softeners sold with other machines look identical, so this may be a
+generic product. I was told to recharge mine weekly with a few
+tablespoons of pure salt in a highball glass. The test result is based
+on this procedure. This softener also does not completely eliminate
+hardness. In my case, it reduces hardness from 150 mg/l to about 50
+mg/l. The performance is about equal to a new Brita jug filter. Weekly
+recharging keeps it at this level. At this level of softening, my
+water still generates scale, but at about half the rate of unsoftened
+water. The softening creates close to zero LI water at coffee brewing
+temperatures, albeit with higher alkalinity than hardness. The
+combination of a new Brita and hose end did reduce the water to a 20
+mg/l nonscaling level. </p>
+<p>
+All in all, neither the Brita or the hose end
+unit will produce boiler safe water either alone or in combination
+unless your tap water is already fairly soft. </p>
+<p>It should be noted that the performance of ion exchange
+softeners is affected by temperature. In particular, their performance
+degenerates when the water is above 15C. Since the water in a pourover
+semicommercial machine is usually closer to 35C, this may have
+affected the test results.
+</p>
+</li>
+<li>
+<h4>Total or Combination Water Treatments</h4>
+<p>The above treatment options can be combined to get water with
+more or less custom mineral levels. The simplest and most common
+approach is to reintroduce proportion of charcoal filtered tap water
+downstream of the RO unit to raise hardness and alkalinity to a 30
+mg/l range. This is still boiler safe, but greatly improves coffee
+taste over straight RO water. It requires no more maintenance than a
+straight RO system. Some systems use custom replaceable mineral
+cartridges downstream of the RO unit. Aquarium owners use more complex
+mineral bed systems to control each key mineral level independently.
+Such sytems are extremely high maintenance, requiring frequent water
+testing and bed manipulation. Follow the aquarium links at the end to
+get more information.
+</p>
+</li>
+<li>
+<h4>Non-Mineral Adjusting Water Treatments</h4>
+<p>There are anti-scaling treatments available that do not rely
+on lowering hardness levels. However none can be recommended.
+</p>
+<p>The first uses crystalline polyphosphate additives. These
+additives are FDA approved for drinking water, and some companies do
+sell them as espresso machine water treatments. They work because the
+polyphosphates form a crystal core to which the scale clings rather
+than depositing on metals. These particles remain suspended in the
+water. Barry says this treatment is worse for coffee taste than simple
+softening, and this makes sense. The limescale encrusted polyphosphate
+crystals will lodge in the grinds and interfere with the extraction. I
+have found one Austrian espresso machine dealer who sells a
+polyphosphate cake to be dropped into the tank and changed annually.
+I'd welcome any reports about their efficacy and effect on taste.
+</p>
+<p>A second approach electrifies the water with a low powered,
+radio frequency alternating current. No authority I've found endorses
+this method except for the tongue in cheek Wessex water board, which
+comments that "some of our more cherished customers like it." Perhaps
+they have proponents of Kirlian photography as customers, who,
+according to their web sites, think this also imbues water with a sort
+of life force.
+</p>
+<p>Finally, some people on Kaffee-Netz keep their water mildly
+acidic using lemons or citric acid. If the water's pH is kept below
+about 6.3, this will work to eliminate scaling in moderately hard
+water. This is in essence a simple mineral bed treatment. It will stop
+scaling, but the effect on coffee taste may be worse than softened
+water. The required level is about 1/4 to 1/3 teaspoon of citric acid
+per liter.
+</p>
+</li>
+
+<li>
+<h4>Brands of Water Treatments</h4>
+<p>I regret that I could not find enough information, nor had the
+testing resources, to let me recommend or demur the many available
+brands of water treatment. Given what I've learnt, I find the selling
+tactics of almost all that I've seen completely reprehensible, as they
+trade heavily on fear and ignorance (yes Virginia, you will die if you
+drink tap water). However, it could well be that some or all work as
+they should. I'd welcome reports by users of these units.
+</p>
+</li>
+</ol>
+</li>
+
+<li>
+<h3>Water Hardness and Taste</h3>
+
+<ol>
+<li>
+<h4>Facts and Theories About the Best Coffee Water</h4>
+<p>The taste of straight water is quite subjective. Bottled
+waters mostly come in two kinds, alkaline ones with massive mineral
+levels just below brackish, and acidic ones with mineral levels just
+above RO flatness. Very few have the intermediate hardness levels
+found in most municipal waters. Moreover, the taste claims and taste
+test results of bottled waters bear no obvious relation to their
+chemical composition; although being as different as possible from the
+local tap water may be a factor. Fizzy waters with high bicarbonates
+like Perrier or San Pellegrino start out tangy acidic and become
+alkaline mellow as they fizz out, so they have the advantage of
+suiting any taste.
+</p>
+<p>Fortunately, the effect of water on coffee is a different
+story. Taste testing by various authorities over the past twenty years
+has established a rough agreement that neutral pH water with 90 mg/l
+hardness is optimal for coffee taste. 
+</p>
+<p>There's one important thing to note here. It's almost
+impossible to brew coffee with neutral pH water that's too hard, since
+raising it to 95C will drop out the hardness in excess of 90mg/l to
+100 mg/l as scale. Asking why this is so raises some new questions.
+Some water experts in Germany and Italy believe that the Langelier
+Index is behind the test results. According to their theory, a
+negative LI affects coffee extraction the same way acidic water would,
+tasting brighter and rougher than it should. Thus, the ideal coffee
+water has a neutral pH of 7, which means an alkalinity of about
+50mg/l, and an LI of zero in the 90C - 95C temperature range, which
+means a hardness of about 90mg/l. Notice that this approach also makes
+alkalinity a factor in coffee taste.
+</p>
+<p>Italian authorities, especially Segafredo, insist there is an
+additional criterion, that calcium hardness is preferable to magnesium
+for taste, whereas the SCAA and German authorities do not distinguish
+calcium from magnesium hardness. This could be an issue with the
+delivered drinking water in water coolers, which typically are RO
+water with added magnesium salts.
+</p>
+</li>
+<li>
+<h4>A Taste Test</h4>
+<p>These disputes call for a taste test. However, there's little
+point doing the tests with brewed coffee. First, limescale is a
+trivial problem in brewed coffee makers, so there's no reason to use
+soft water when brewing coffee. Second, in good espresso, crema,
+mouthfeel, and balance play a much larger role than in brewed coffee,
+so results from a brewed test may not apply to espresso. The drawback
+of an espresso test is that I can't do it side by side, since I need a
+few minutes to switch waters in the tank and let my tastebuds recover.
+I settled on tasting at fifteen minute intervals and relying on my
+notes and taste memory for comparisons. I believe if I can't
+distinguish the taste from different waters at this short an interval,
+water quality isn't big deal. To keep myself undeluded, I blind tasted
+by shuffling the water bottles.
+</p>
+<p>I used four different waters. The first was boiled hard water,
+at 100 hardness, 50 alkalinity. This is ideal for brewed coffee, and
+will be the water one gets out of an espresso temperature boiler
+whenever one runs anything harder through the machine. The second is
+straight RO water with less than 10 hardness and alkalinity. The third
+is RO water with charcoal filtered tap water added to get a 40
+hardness, 25 alkalinity level. This approximates the composition of a
+competent water treatment for commercial espresso machines. The fourth
+is ion exchanged water with 100 alkalinity and less than 20 hardness,
+this approximates the composition of water when using an ion exchange
+hose end or cartridge type softener. The hardness and alkalinity
+figures are +/- 7.5 mg/l.
+</p>
+<table>
+<tbody><tr>
+<th colspan="5">Espresso Taste Test</th>
+</tr>
+<tr id="odd">
+<th>Water Hardness</th><th>RO</th><th>RO + Tap</th><th>IonEx</th><th>100/50</th>
+</tr>
+<tr>
+<th>Crema</th><td>9</td><td>9</td><td>9</td><td>9</td>
+</tr>
+<tr id="odd">
+<th>Body/Mouthfeel</th><td>4</td><td>7</td><td>8</td><td>9</td>
+</tr>
+<tr>
+<th>Sweetness/Balance</th><td>3</td><td>8</td><td>9</td><td>10</td>
+</tr>
+<tr id="odd">
+<th>Roast Flavors</th><td>6</td><td>9</td><td>8</td><td>9</td>
+</tr>
+<tr>
+<th>Finish</th><td>3</td><td>7</td><td>8</td><td>9</td>
+</tr>
+<tr id="odd">
+<th>Total</th><td>35</td><td>49</td><td>51</td><td>54</td>
+</tr>
+</tbody></table>
+
+<p>
+The RO water didn't really produce an espresso, but rather an
+unbalanced, overly bright shot of strong coffee with crema on top.
+It's identity was painfully obvious. The proper mineral level espresso
+was distinguished by a slight edge in the things I like in an
+espresso, rich oily mouthfeel and sweetness, but I was using my own
+blend which is formulated to really max these out at the expense of
+complex origin flavors (50% total of Robusta, Brazil, Java, and
+Uganda). Otherwise, the two boiler safe variations fared very well and
+were nigh indistinguishable. 
+</p>
+</li>
+
+<li>
+<h4>Other Water Factors in Coffee Taste</h4>
+<p>There are several websites that insist good coffee water is
+fresh. Some go so far as to change the water in their tanks every few
+hours, lest the water gets too warm from the machine's heat and go
+stale. As justification they mention that fresh water has dissolved
+gasses, and stale water does not. Most municipal tap water has less
+then 5 mg/l dissolved oxygen, since it is foolishly allowed to go
+stale in while sitting in purification ponds. Even if you attach an
+aquarium aerator to your water intake, the extra dissolved oxygen
+won't survive heating to brewing temperature (although really gassed
+up water may do some amusing things to your boiler). Needless to say,
+this is one of the more silly ideas I came across.
+</p>
+<p>Dissolved chlorine and other gasses are also removed by
+standing and heating, so carbon filtering is not strictly necessary.
+The exception is when your municipal waterboard does its disinfection
+with chloramines. This is a fully soluble form of chlorine that
+remains in the water. The good news is that it isn't nearly as
+tasteable as regular chlorine. But it does have a taste; and it can
+and should be removed by carbon filtering in water for food or drink.
+</p>
+</li>
+</ol>
+</li>
+
+
+<li>
+<h3>Water Treatment and Preventive Descaling for Espresso Machines</h3>
+
+<ol>
+<li>
+<h4>Scope</h4>
+<p>This section does not deal with what commercial espresso
+people understand by descaling, that is, disassembling the machine and
+removing large amounts of scale using picks and long, strong acid
+baths. It does deal with flushing home use machines relatively quickly
+with mild acids to dissolve small amounts (5 grams or less) of scale.
+Since the term "descaling" is also used for this procedure, and since
+this has caused some confusion in alt.coffee conversations between
+pros and amateurs, I'm going to call it "preventive descaling"
+instead.
+</p>
+<p>First I'll describe how preventive descaling is done on
+various machines to give readers an idea of how much work is involved.
+Then I'll describe various water treatment options to get the coffee
+taste and preventive descaling frequency you want.
+</p>
+</li>
+<li>
+<h4>Preventive Descaling</h4>
+<p>
+<strong>Descaling Solution</strong><br>
+Generally, a flush through descaler uses
+about .5 to .75 fluid ounces (1 to 1.5 tablespoons, or 8 to 12 grams)
+of citric or tartaric (grape) acid powder dissolved in 1 liter of
+water. This is a 2.25% to 3.5% solution, equivalent to 33% to 50%
+dilute lemon juice. Cleancaf and other coffee manufacturers' descalers
+use this formula. Theoretically, these amounts will dissolve about 12
+to 18 grams of scale per liter, but that would require leaving the
+solution in for several days; in practice, it is used for an hour or
+two to dissolve up to 5 grams of scale.
+</p>
+<p>The formula is mild enough to be harmless to espresso machine
+components, but it will come out of brass or copper machines with a
+slight greenish tinge. This comes from milligram levels of dissolved
+copper and is no cause for alarm.
+</p>
+<p>Five pound bags of citric or tartaric acid cost about $10 at home
+brewers' or soapmakers' supply stores. This is roughly a 20 year
+supply
+</p>
+<p><strong>Descaling Intervals</strong>
+Know the hardness of the water you're
+using, and how much you use the machine. Descale when accumulations
+are between 2.5 and 5 grams. More often is a waste of time, less often
+may result in scale build up. Check out section 1.7 for instructions
+on determining your set up's scaling rate. 
+</p>
+<p><strong>Single Boiler Machines</strong><br>
+For single boiler machines, preventive
+descaling is no problem, just follow the instructions given by the
+manufacturer. In general, this involves filling the boiler, letting
+the solution work for about ten minutes, and replacing it by running
+it out of the steam wand under pump pressure. This procedure is
+repeated three to five times, until about a liter of descaler is used
+up. Then the machine is flushed with water until any taste is gone. 
+</p>
+<p>Manufacturer's recommendations differ on whether the brewhead
+should be flushed or not. This is not surprising. The water's
+temperature drops and LI rises as it moves from the boiler to the
+head, so scale won't form there. In scaled machines however, fragments
+can move from the boiler into the head, fouling the gicleur valve. My
+guess is that with regular descaling, flushing the head is unnecessary
+but harmless.
+</p>
+<p>I do not know if the dual boiler Techno can be descaled in
+this way, or if there is some procedure peculiar to it.
+</p>
+<p><strong>Heat Exchangers</strong><br>
+HX machines have two things to descale, the
+boiler and the heat exchanger(s). Any descaling of a plumbed in
+machine will involve moving the water inlet pipe to a tank that can
+hold the solution.
+</p>
+<p>Doing the heat exchanger is as easy as a single boiler
+machine. Just run descaler through it until it exits the brewhead (or
+HXed tap). Leave the descaler in for 5 to 10 minutes with the machine
+off (or 2 to 4 with it on), then run out a 3/4 cup worth, repeat six
+times until you've used up a liter of descaler. If the boiler refill
+comes on during this period, very little harm is done, since it will
+be adding only 20 ml or so to a liter or more of boiler water. Boiler
+flushes (see below) can be scheduled after an HX descaling to minimize
+this problem even further. However, <em>only use citric or tartaric acid
+for HX machine descaling,</em> since if any remains in the boiler it's no
+big deal, whereas smelly vinegar or cleancaf's detergent could be a
+problem even at low concentrations.
+</p>
+<p><strong>HX Machine Boilers</strong><br>
+Descaling the boiler is much more of a
+headache. If you cook, you know that scale preferentially forms at the
+waterline. This means that filling the boiler with descaling solution
+only to the autofill line is not going to be very effective, since the
+descaler will barely be in contact with the bulk of the scale.
+Disconnecting the autofill (a wand like device sticking out of the top
+of the boiler with a single wire attached) will fill the boiler to a
+higher level and allow the descaler to work on this "rim".
+</p>
+<p>In machines with a direct boiler tap, the boiler can be filled
+by opening the water tap, and letting the autofill refill the boiler
+with descaler. When that's done, close the tap, and disconnect the
+autofill for 30 seconds or so to fill the boiler a little above the
+regular water line. On machines without a direct boiler tap, the
+autofill has to be disconnected, and the fill may have to proceed by
+flushing the boiler through the steam wand. If there's an easily
+accessible drain, it may be easier to use it in conjunction with the
+autofill.
+</p>
+<p>If you're draining via the steam wand, don't let the machine
+get too cold, otherwise the vacuum breaker will leak.
+ Disconnecting the autofill at the sensor risks shifting the
+sensor's depth, so it's best to buy a spade lug and its mate, or an
+inline switch that is rated for 130C ambient, and use them to make a
+disconnect in the wire to the sensor. One can even extend the wiring
+so this can be done without removing the case (i.e. so it's reachable
+at the water tank).
+</p>
+<p>Once the boiler is filled with descaler, leave it in for two
+and half hours with the machine off, or one hour with the machine on.
+</p>
+<p>The descaler is flushed out using the same procedure that
+brought it in, either via the tap, steamwand or drain. Keep flushing
+and refilling until there's no more lemon taste. This may take about
+twice as much water as is usually in the boiler. It's best to refill
+the boiler with RO water (see below). Add 5% to 10% tap water to keep
+the autofill happy.
+</p>
+</li>
+<li>
+<h4>Boiler Flushing</h4>
+<p>Obviously, no one in their right minds would want to go
+through the hassle of doing a boiler descaling at monthly or bimonthly
+intervals. Fortunately, one can reduce the descaling requirement to
+virtually nothing, even when running the 90 mg/l hardness, 50 mg/l
+alkalinity water best for coffee by using this trick.
+</p>
+<p>If the boiler autofill only runs to replenish water lost by
+steaming, it only amounts to a few ounces per day. Suppose the water
+in the boiler starts out very soft. Then these small additions of
+moderately hard water won't bring it to scaling levels for at least a
+week or so.
+</p>
+<p>So once a week, put very soft water into your tank and flush
+the boiler with it until the water has been softened down. The
+flushing technique is the same as that described in the descaling
+section. Then put your regular nuetral to moderately hard espresso
+water back in and enjoy your shots with complete confidence. If you
+regularly use boiler water for Americanos, etc., or do a lot of
+steaming, adjust the frequency of soft water flushing to match [see
+section 1.7]. If this is impossible due to very high use or boiler
+inaccessability, you will have to go with a softer non-scaling water.
+</p>
+<p>Straight RO can be used for this flushing since enough
+minerals will generally remain to operate the autofill sensor. If the
+pump doesn't go off due to low minerals, simply shut the machine and
+replace the RO water with the regular water. It will only take a few
+seconds of pumping to raise the mineral content enough to deactivate
+the autofill. Alternatively, add 5% to 10% tap water to make it
+conductive enough.
+</p>
+<p>Even if boiler safe water is used, the boiler needs to be
+flushed occasionally. The frequency can be calculated using the data
+in section 1.
+</p>
+<p>If these procedures are followed, there's technically no need
+to descale the boiler at all. Nevertheless, an annual or biannual
+descaling is wise to pick up any stray scale that may have formed due
+to forgetfullness.
+</p>
+</li>
+<li>
+<h4>Choosing a Water Treatment</h4><br>
+<p>There's basically three choices: Using boiler safe water and
+never descaling. Using water close to 90 mg/l hardness, 50 mg/l
+alkalinity and descaling less frequently. Or using harder water and
+descaling more frequently. The choice mostly depends on how much the
+machine is used [see section 1.6], and how hard it is to descale.
+</p>
+<p>Commercial operators have no choice. They must use boiler safe
+water, otherwise their machines would accumulate 5 grams of scale in
+anything from a few hours to a few days. Preventive descaling at these
+intervals is impossible. Home machine owners who never want to descale
+should follow the same course. The simplest way is to use RO water
+spiked with enough tap water to get to a 30 - 40 mg/l level. This
+course is absolutely safe provided the boiler is regularly flushed.
+</p>
+<p>The hose end softeners sold by many espresso machine manufacturers do
+not, according to my measurements, make for scale free operation; but
+they will reduce descaling to quarterly frequency. My guess is that
+the cartridge style inline ion exchange units for plumbed in machines
+will be more effective, since they don't operate at elveated water
+temperatures.
+</p>
+<p>I personally think home machine users are better served using
+neutral or harder water and preventively descaling. At home use
+levels, the 5 gram scale accumulation criterion will only require
+monthly to quarterly descaling, and the coffee taste will be at its
+best whenever the water is at 90/50 or above, since the machine will
+reduce it to that level by heating it. Whether or not to soften the
+water down to this level depends on how hard the tap water is; if the
+water is very hard, descaling could become a weekly chore, and such a
+partial softening could be preferable.
+</p>
+<p>There's several ways to do this. The conceptually simplest is
+to boil the water for a few minutes; this removes hardness in excess
+of coffee levels. I use my Brita jug for all drinking water, since my
+water is cloudy from old pipes; its incomplete softening, or that of
+the hose end softener in a warm tank, also makes for a tasty espresso.
+Finally, tap water can be diluted with RO water to reach any hardness
+level one wants.
+</p>
+</li>
+<li>
+<h4>A Note to Commercial Operators</h4>
+<p>With conventional water inlet design, a commercial operation
+needs to run boiler safe water. This may have a slightly deletorious
+effect on espresso taste, and still necessitates boiler blowdowns.
+</p>
+<p>However, if the demand were out there, it shouldn't be all
+that difficult to design a better system. It would run two levels of
+water: RO water with a tad of minerals into the steam boiler, and a
+harder, tastier water into the heat exchangers. With proper plumbing,
+it should be simple to do a nightly citric acid flush of the heat
+exchangers, and a monthly boiler flush to keep them scale free.
+</p>
+</li>
+<li>
+<h4>A Water Treatment for Gaggia Home Machine Boilers</h4>
+<p>High alkalinity and low hardness water protects a Gaggia,
+since the alkalinity won't be reduced by scaling; while low
+alkalinity, high hardness water is deadly, since even if the original
+alkalinity is above the 50 mg/l safety limit, it will scale out,
+making the water and steam corrosive [section 1.8]. This leads to the
+following recommendations.
+</p>
+<p>For those who are willing to be painstaking: 1. Use good
+coffee water (see above) 2. In the presence of calcium, steam
+temperature will reduce the alkalinity to a corrosive level. If you
+are using very high calcium water, even the brew temperature can
+reduce the alkalinity to corrosive levels. Therefore, <em>after every
+espresso making session, flush the boiler and immediately turn the 
+machine off.</em> Descale on a regular schedule as explained above.
+</p>For those who want it foolproof at the slight expense of
+taste: Start with hard and high alkaline water (higher than 50mg/l),
+then soften it with an ion exchanger. The ion exchanger removes the
+scaling calcium and magnesium, but leaves the high alkalinity intact.
+<p>If you use a small ion exchanger connected to the machine's hose,
+don't forget to recharge it weekly. Avoid the Brita or Pur jug filter
+for this, since their use of hydrogen ion replacement makes the water
+slightly acidic, and leaves much of the calcium in.
+</p>
+<p>If you have very soft water, or an RO system in the house, add
+a small pinch of baking soda (sodium bicarbonate) to every liter of
+water when you refill the tank. This will not be tasteable, and will
+supply about 70 mg/l of non-scaling alkalinity, more than enough to
+protect the boiler.
+</p>
+</li>
+</ol>
+</li><li>
+<h3>Web References</h3>
+<ul>
+<li>http://www.corrosion-doctors.org/NaturalWaters/Frames.htm </li>
+<li>
+http://wilkes.edu/~eqc/corrosion.htm
+</li>
+<li>
+http://www.notcatfish.com/chemistry/hardness.htm
+</li>
+<li>
+http://members.optushome.com.au/chelmon/Rbowkeep.htm
+</li>
+<li>
+http://fins.actwin.com/aquatic-plants/month.9807/msg00114.html
+</li>
+<li>http://fins.actwin.com/aquatic-plants/month.9810/msg00034.html
+
+</li></ul></li></ol>
+<p>For further sources, Google on -- alkalinity CaCO3 hardness -- this
+filters out the thousands of bozo pages that turn up for the more
+obvious searches like -- water hardness.
+</p>
+
+
+
+	<div style="text-align:center" class="box">
+		<!-- #BeginDate format:fcAm1a -->Tuesday, August 12, 2003 11:26 PM<!-- #EndDate -->
+		(AZT)<br>
+		Problems with the page?  Questions?  Send me <a href="mailto:rick@farris-family.net">email</a>.
+	</div>
+</div>
