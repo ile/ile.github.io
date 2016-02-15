@@ -3,7 +3,6 @@ description: "ilkkah site"
 signature: "Yours truly, Grizzly Bear"
 pygments: true
 permalink: pretty
-markdown: redcarpet
 github:
   # enables "edit" link
   repo: 'ilkkah/ilkkah.github.io'
