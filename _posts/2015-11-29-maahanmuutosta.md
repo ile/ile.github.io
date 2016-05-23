@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "maahanmuutosta.fi"
-published: true
+published: false
 ---
 
 And still another site created with the [Kantele framework](https://github.com/kantele/kantele): **[maahanmuutosta.fi](http://maahanmuutosta.fi)** — and it took just one week to create this. The domain was registered just about one week ago and the site has been live now for a few days.
