@@ -1,1 +1,73 @@
+==================================================================
+https://keybase.io/ilkkah
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of http://ilkkah.com
+  * I am ilkkah (https://keybase.io/ilkkah) on keybase.
+  * I have a public key with fingerprint BFBF 3E54 C937 59EA FFFF  1FE6 9B0D 0799 19BE EDC0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010183f70814d678c54869109de21b80f1b9cde01577c9e0c050d1c88bf8a7a119720a",
+            "fingerprint": "bfbf3e54c93759eaffff1fe69b0d079919beedc0",
+            "host": "keybase.io",
+            "key_id": "9b0d079919beedc0",
+            "kid": "010183f70814d678c54869109de21b80f1b9cde01577c9e0c050d1c88bf8a7a119720a",
+            "uid": "be3dfba2ebf3dbfbc3d1eb53f46c1619",
+            "username": "ilkkah"
+        },
+        "service": {
+            "hostname": "ilkkah.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470187515,
+    "expire_in": 157680000,
+    "prev": "67de0f433f820abe4d7140bad127e451e429951d0d043795c3a34e7628f9041e",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUmtMHFUYXR6lyKMlNS1QiykjFImIc3dmdmZWbWkor9oujak1MSzLPO4s48Lu
+ujsgKw9XpWDl1Tal3VLBF49gFSMNfVBsq1jQbG0LZHnUJthaFayk0tAQA4h3iP4w
+8affn5v73XPOPefLdzA8QOPvdyJ89fHoCzOX/LzTvObFDzI1pRhvE12YvhSzwJUD
+FojQqZgssojpMRzggCEkGmcAKepoRqBIRscCnBWhFvAMLgGeFUSIA4qmBRbiAk7h
+IhAYhpcYjuYAYGktzmFJmCRbzdBhd8hWBcnyEi8RkCIFlqApFnISKiBBHcvjIk6z
+LGB5CEUBR8R8m1NlIHM854TJsg310MW0Yu8/8P+z76IVOR4SosRzWohsi8i8QIgA
+8hQhkToB6ACrAp3QYeUKIULLBRYLl4+VJ2GoVywLUB2rmuNf78mCrRDx7A6bYhNs
+Baifryh2vUpTXHYV9yrkTX8rmHjZKqIRIkIxdDhlmxXTA4QUFFmVBCSN8tIUoJIw
+WGKXHdAkqwiK1jE4KvUbWIwkdTQKLZEEITHavTjHQ1KkAYnznAi0NCQpAEkty1JA
+RHMlCZqlBIIjSEjrtIzE4iSAmBrqFasNiQNklDMjUadstnJKkQNi5SEH/DcFavz8
+NUGr/NXt0oQ8FPHPyoW+vna5ZORg0GObozs9HVtmB2fzfNer1hSfa0rcO2bg3V25
+eFpKffSx2h8d5242pz3Xk/VdtD0ro2iyLNwYRscf/bUa1u30/lJQvfbLUwPj2X3G
+4qrcC+aWybfjnW/ktQ7OK57sQy2G7fd+j/xqQ1TIM9uWqZng7Mo39+9L6VkV/DAI
+q27byfV0R816jl83z/22OJ4QN9zguXU266XYoFTX3cbCd60ZroqywcCA7Ib9yvR5
+YXgYdIceGzra3hy+q6r5m4nykbE78fdnYjLP93fmjzy6tDo3ti5iYY0xwxVV7/7e
+fedlX6H/rWqrL3fPXNbm296sclvm6e29OzxHAt2nbvZvsOQqTc9qrp0p8R1xj+o/
+e/6H+a2xyrc+U0mc0JHGp0RMfNxgHnjt6eHDSlermLreWGuI7Mgbv7I4c9XZH5Pg
+be4pNb8Qs/XPk2fNj1fmpCZ3Z4YGH/r88sLUxtjAdXjqp5P7vni/6q3e3TULLZ/A
+2r6h074y191Wb7LBndHuNXY1nvwp0PVgKqXmnSe/3g2H47cYmgZytn2ka4od8rUs
+XayIM9xoE923MzZlW1x9KVPG92jfE3LdYf2ekrDKxFpPgKNzotHcPkY01o9Op/fd
+u7S0vCt+e9/yiasbf74xH7p+Mb0tJunDyPu96y7/UfNgFJ/ZkX5tqeKpBPfFR64M
+ztnZxBYu7cyIX85f
+=AJG+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ilkkah
+
+==================================================================
