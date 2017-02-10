@@ -1,7 +1,7 @@
 name: "ilkkah"
 description: "ilkkah site"
 signature: "Yours truly, Grizzly Bear"
-pygments: true
+rouge: true
 permalink: pretty
 github:
   # enables "edit" link
