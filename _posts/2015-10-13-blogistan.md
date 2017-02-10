@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blogistan.fi"
-published: true
+published: false
 ---
 
 Another blogging site that I have been doing — a sister project to [http://kansalaiskeskustelu.fi/](http://kansalaiskeskustelu.fi/) — is now ready: [http://blogistan.fi/](http://blogistan.fi/).
