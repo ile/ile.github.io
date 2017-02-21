@@ -355,7 +355,7 @@ pre code {
   overflow: hidden;
   display: inline-block;
   line-height: 22px;
-  width: 100auto;
+  width: auto;
   margin: 0;
 }
 
