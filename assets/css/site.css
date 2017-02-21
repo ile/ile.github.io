@@ -352,11 +352,10 @@ pre code {
 }
 
 .pane-projects li {
-  padding-left: 8px;
   overflow: hidden;
-  display: block;
+  display: inline-block;
   line-height: 22px;
-  width: 100%;
+  width: 100auto;
   margin: 0;
 }
 
@@ -434,6 +433,10 @@ article, section {
   width: 100%;
   margin: 0 auto;
   padding: 0 0 250px 0;
+}
+
+section.wide {
+  max-width: 1000px;
 }
 
 #post-nav {
