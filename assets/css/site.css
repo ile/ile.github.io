@@ -137,7 +137,9 @@ a {
 }
 
 article a:hover, section a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  background: #eee;
+  transition: 0.3s background;
 }
 
 a:hover {
