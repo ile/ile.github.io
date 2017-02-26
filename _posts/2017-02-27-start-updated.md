@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Start! updated"
+title: "Start! update: 2.0 published."
 published: true
 ---
 
