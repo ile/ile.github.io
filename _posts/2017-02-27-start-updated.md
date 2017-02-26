@@ -8,6 +8,6 @@ Finally, after a long overdue delay, there's an update for the Chrome start page
 
 It's generally updated all over, some little features may have been removed that were more of a distraction in my opinion, and some features are added. One nice feature was that it now fetches the icons automatically, and **for this it requires more relaxed permissions**. Nothing to worry about the permissions, it still won't bite.
 
-[Here's the link.](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh?hl=en-US) I'm switching back to this extension myselr, after using the default Chrome start page for a while. So should you, probably.
+[Here's the link.](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh?hl=en-US) I'm switching back to this extension myself, after using the default Chrome start page for a while. So should you, probably.
 
 If something got broken, or you have any feedback, please tell below. 
