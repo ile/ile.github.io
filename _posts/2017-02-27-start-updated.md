@@ -11,3 +11,5 @@ It's generally updated all over, some little features may have been removed that
 [Here's the link.](https://chrome.google.com/webstore/detail/start/iniabgbbmccaomaocmhcfioahgipigbh?hl=en-US) I'm switching back to this extension myself, after using the default Chrome start page for a while. So should you, probably.
 
 If something got broken, or you have any feedback, please tell below. 
+
+**Update** Ok, so there was an issue with icon size. It's fixed in 2.0.1, should update in browsers in an hour. If the icon size issue persists, please tell below.
