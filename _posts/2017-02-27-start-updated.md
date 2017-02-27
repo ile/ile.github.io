@@ -13,3 +13,5 @@ It's generally updated all over, some little features may have been removed that
 If something got broken, or you have any feedback, please tell below. 
 
 **Update** Ok, so there was an issue with icon size. It's fixed in 2.0.1, should update in browsers in an hour. If the icon size issue persists, please tell below.
+
+**Update** The new version didn't work for a number of people, so I'll bring the old one back. Not a good idea to make big changes into a start page, just like that -- lesson learned. So there will be a totally new extension, separate from this, after a while.
