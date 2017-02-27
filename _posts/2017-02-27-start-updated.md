@@ -4,7 +4,7 @@ title: "Start! update: 2.0 published"
 published: true
 ---
 
-Finally, after a long overdue delay, there's an update for the Chrome start page "Start!". Apologies for it taking so long.
+Finally, there's a long overdue update for the Chrome start page "Start!". Apologies for it taking so long.
 
 It's generally updated all over, some little features may have been removed that were more of a distraction in my opinion, and some features are added. One nice feature was that it now fetches the icons automatically, and **for this it requires more permissions**. Nothing to worry about the permissions, it still won't bite.
 
