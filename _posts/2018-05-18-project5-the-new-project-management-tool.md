@@ -4,15 +4,13 @@ title: "Project5 - the new project management tool"
 published: true
 ---
 
-After many litres (gallons, if you prefer) of tea, coffee and countless hours of coding, Project5 is finally ready for the beta.
+After many litres (gallons, if you prefer) of tea, coffee and countless hours of coding, [Project5](https://project5.co/) is finally ready for the beta.
 
 ![](https://pic.project5.co/c78de4b4-c1ed-41e5-83af-a27352c12c31/652c5510-debe-4ffb-a5bc-89334b053c9f/1526102076490.jpg)
 
 ## What is Project5?
 
-Project5, the product, is a project management and team communication tool, delivered as Software as a Service to you, the potential (or existing) customer. You can think of Basecamp or Slack of the products that are geared to do similar tasks. Obviously, there are some things done differently, otherwise, what would be the point?
-
-Product5 is also a bootstrapped company. It is founded and run by Ilkka Huotari. Other products and companies run and created by Ilkka are [chttr.co](https://chttr.co) and [Embed.rocks](https://embed.rocks).
+[Project5](https://project5.co/) is a project management and team communication tool, delivered as Software as a Service to you, the potential (or existing) customer. You can think of Basecamp or Slack of the products that are geared to do similar tasks. Obviously, there are some things done differently, otherwise, what would be the point?
 
 Going forward, the intent is to create a whole suite of business tools that can be bought from our App Store. What is launched now is just the start and will serve as the basis for everything else that is to come.
 
