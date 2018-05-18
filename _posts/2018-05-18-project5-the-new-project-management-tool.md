@@ -10,7 +10,7 @@ After many litres (gallons, if you prefer) of tea, coffee and countless hours of
 
 ## What is Project5?
 
-[Project5](https://project5.co/) is a project management and team communication tool, delivered as Software as a Service to you, the potential (or existing) customer. You can think of Basecamp or Slack of the products that are geared to do similar tasks. Obviously, there are some things done differently, otherwise, what would be the point?
+[Project5](https://project5.co/) is a [project management and team communication tool](https://project5.co/), delivered as Software as a Service to you, the potential (or existing) customer. You can think of Basecamp or Slack of the products that are geared to do similar tasks. Obviously, there are some things done differently, otherwise, what would be the point?
 
 Going forward, the intent is to create a whole suite of business tools that can be bought from our App Store. What is launched now is just the start and will serve as the basis for everything else that is to come.
 
