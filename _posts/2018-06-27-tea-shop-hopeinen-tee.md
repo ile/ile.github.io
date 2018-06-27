@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Tea shop - Hopeinen tee"
 published: true
