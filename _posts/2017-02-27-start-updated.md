@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Start! update: 2.0 published"
-published: true
+published: false
 ---
 
 Finally, there's a long overdue update for the Chrome start page "Start!". Apologies for it taking so long.
