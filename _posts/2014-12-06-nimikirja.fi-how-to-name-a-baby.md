@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to name a baby?"
+title: "Nimikirja.fi: How to name a baby?"
 published: true
 ---
 
