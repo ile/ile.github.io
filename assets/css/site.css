@@ -82,7 +82,7 @@ h2 {
 
 h3 {
   font-size: 30px;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.1em;
 }
 
 h4 {
@@ -469,6 +469,7 @@ span.date {
   text-align: center;
   border-radius: 30px;
   line-height: 16px;
+  margin-bottom: 1em;
 }
 
 .blog .header {
