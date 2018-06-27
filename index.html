@@ -8,8 +8,9 @@ description: Ilkka Huotari
     <ul class="posts">
       {% for post in site.posts %}
       <li>
-        <span class="date">{{ post.date | date_to_string }}</span>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <span class="date">{{ post.date | date_to_string }}</span>
+          
           {% if post.excerpt %}
             {{ post.excerpt }}
           {% endif %}
