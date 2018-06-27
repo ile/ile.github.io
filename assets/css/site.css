@@ -466,12 +466,9 @@ section.wide {
 }
 
 span.date {
-  color: #999;
   margin-left: 0px;
-  padding: 5px 15px;
   display: inline-block;
   text-align: center;
-  font-size: 14px;
   border-radius: 30px;
   line-height: 16px;
 }
