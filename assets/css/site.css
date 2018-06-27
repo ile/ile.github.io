@@ -265,8 +265,6 @@ ul.posts img {
 }
 
 .home ul.posts li a {
-  font-weight: 100;
-  color: #555;
 }
 
 article.blog {
@@ -350,7 +348,6 @@ pre code {
 .home ul p {
   color: #000;
   margin: 0;
-  font-size: 14px;
 }
 
 .pane-projects li {
