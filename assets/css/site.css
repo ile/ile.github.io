@@ -510,7 +510,7 @@ header .inner ul li a {
   transition: 0.3s all;
   display: inline-block;
   border-bottom: solid 1px transparent;
-  line-height: 47px;
+  line-height: 60px;
 }
 
 header .inner ul li:hover a, header .inner ul li.selected a {
@@ -545,7 +545,7 @@ header h1 {
 
 img.round {
   vertical-align: middle;
-  width: 24px;
+  width: 45px;
   border-radius: 100%;
   display: inline-block;
   margin-left: 6px;
