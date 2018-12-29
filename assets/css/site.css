@@ -39,7 +39,6 @@ body.home section.home, body.home section.home * {
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 25px;
   color: #252824;
   background: #fbfbfb;
 }
@@ -54,7 +53,6 @@ h1 {
 .home h2 {
   text-align: center;
   border-bottom: solid 1px #eee;
-  line-height: 160%;
 }
 
 h2 {
@@ -200,7 +198,6 @@ header {
 
 header h1 {
   font-size: 26px;
-  line-height: 26px;
 }
 
 header a {
@@ -279,7 +276,6 @@ blockquote:before {
 blockquote p {
   font-size: 14px;
   font-weight: 300;
-  line-height: 18px;
   margin-bottom: 0;
   font-style: italic;
 }
@@ -300,7 +296,6 @@ pre {
   display: block;
   padding: 14px;
   margin: 0 0 18px;
-  line-height: 16px;
   font-size: 11px;
   border: 1px solid #dfdfdf;
   white-space: pre-wrap;
@@ -332,7 +327,6 @@ pre code {
 .pane-projects li {
   overflow: hidden;
   display: inline-block;
-  line-height: 22px;
   width: auto;
   margin: 0;
 }
@@ -446,7 +440,6 @@ span.date {
   display: inline-block;
   text-align: center;
   border-radius: 30px;
-  line-height: 16px;
   margin-bottom: 1em;
 }
 
@@ -488,7 +481,6 @@ header .inner ul li a {
   transition: 0.3s all;
   display: inline-block;
   border-bottom: solid 1px transparent;
-  line-height: 60px;
 }
 
 header .inner ul li:hover a, header .inner ul li.selected a {
@@ -516,7 +508,6 @@ article img {
 
 header h1 {
   font-size: 28px;
-  line-height: 62px;
   vertical-align: middle;
   display: inline-block;
 }
