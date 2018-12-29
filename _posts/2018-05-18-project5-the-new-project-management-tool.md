@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Project5 - the new project management tool"
+image: "https://pic.project5.co/c78de4b4-c1ed-41e5-83af-a27352c12c31/652c5510-debe-4ffb-a5bc-89334b053c9f/1526102076490.jpg"
+description: "The finest project management tool the world has ever seen."
 published: true
 ---
 
-After many litres (gallons, if you prefer) of tea, coffee and countless hours of coding, [Project5](https://project5.co/) is finally ready for the beta.
+After many litres of tea, coffee and countless hours of coding, [Project5](https://project5.co/) is finally ready for the beta.
 
 ![](https://pic.project5.co/c78de4b4-c1ed-41e5-83af-a27352c12c31/652c5510-debe-4ffb-a5bc-89334b053c9f/1526102076490.jpg)
 
