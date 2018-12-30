@@ -96,9 +96,6 @@ a {
   width: 170px;
 }
 
-.pane-projects a:hover {
-  background:#f1f1f1;
-}
 
 .pane-projects a {
   display: block;
@@ -119,7 +116,6 @@ a {
 
 article a:hover, section a:hover {
   text-decoration: none;
-  background: #eee;
   transition: 0.3s background;
 }
 
