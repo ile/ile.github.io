@@ -4,7 +4,7 @@ title: "Kansalaiskeskustelu.fi"
 published: true
 ---
 
-Kansalaiskeskustelu.fi was launched again — now with a new, better software and new approach to marketing. Everything seems to go better this time.
+[Kansalaiskeskustelu.fi](https://kansalaiskeskustelu.fi/) was launched again — now with a new, better software and new approach to marketing. Everything seems to go better this time.
 
 Kansalaiskeskustelu.fi is a blogging site for topics under society and politics. In Finnish.
 
