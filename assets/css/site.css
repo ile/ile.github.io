@@ -480,7 +480,7 @@ header .inner ul li a {
 }
 
 header .inner ul li:hover a, header .inner ul li.selected a {
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 header .inner ul li.ml {
