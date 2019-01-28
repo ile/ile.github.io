@@ -476,7 +476,7 @@ header .inner ul li {
 header .inner ul li a {
   transition: 0.3s all;
   display: inline-block;
-  border-bottom: solid 1px transparent;
+  box-shadow: 0 0 9px rgba(0,0,0,0.06);  
 }
 
 header .inner ul li:hover a, header .inner ul li.selected a {
