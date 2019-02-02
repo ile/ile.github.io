@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "QuillJS linebreaks"
-published: false
+published: true
 ---
 
-[QuillJS](https://quilljs.com/) (Quill) seemed to lack "soft" linebreaks (created with shift+enter) so I made this [gist](https://gist.github.com/ile/ce2e56b2d96a5e2c66e04b0ac5e4d3f3). 
+[QuillJS](https://quilljs.com/) (Quill) seemed to lack "soft" linebreaks (created with shift+enter) so I made this [gist](https://gist.github.com/ile/8a08c23b5ae0f331dee8ca062fdef40d). 
 
 Maybe it helps someone.
 
